@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es-ES" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es-ES" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es-ES" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-ES" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+			
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://geype.es/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="https://geype.es/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/ABC0A39C-DCEC-7949-94B4-60DA8A70FE88/main.js" charset="UTF-8"></script><script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<title>Geype Ingeniería | Servicios de Ingeniería y gestión energética</title>
+<link rel="alternate" hreflang="es-es" href="https://geype.es" />
+<link rel="alternate" hreflang="en-us" href="https://geype.es/?lang=en" />
+
+<!-- This site is optimized with the Yoast SEO plugin v7.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Geype es una empresa especializada en proyectos de ingeniería y gestión energética. Eficiencia energética, Proyectos de viabilidad y ejecución, etc."/>
+<link rel="canonical" href="https://geype.es/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Geype Ingeniería | Servicios de Ingeniería y gestión energética" />
+<meta property="og:description" content="Geype es una empresa especializada en proyectos de ingeniería y gestión energética. Eficiencia energética, Proyectos de viabilidad y ejecución, etc." />
+<meta property="og:url" content="https://geype.es/" />
+<meta property="og:site_name" content="GEYPE" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Geype es una empresa especializada en proyectos de ingeniería y gestión energética. Eficiencia energética, Proyectos de viabilidad y ejecución, etc." />
+<meta name="twitter:title" content="Geype Ingeniería | Servicios de Ingeniería y gestión energética" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/geype.es\/","name":"GEYPE","potentialAction":{"@type":"SearchAction","target":"https:\/\/geype.es\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/geype.es\/","sameAs":["https:\/\/www.facebook.com\/Gestion.y.productividad.energetica\/","https:\/\/www.linkedin.com\/company\/2039007\/"],"@id":"https:\/\/geype.es\/#organization","name":"GEyPE Ingenier\u00eda y Gesti\u00f3n Energ\u00e9tica","logo":"https:\/\/geype.es\/wp-content\/uploads\/2017\/02\/logo-1.jpg"}</script>
+<meta name="google-site-verification" content="BJ1uu7jTdnmjcirzC_fndWdYe3CdcX3f5C1UnRn0yS0" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="GEYPE &raquo; Feed" href="https://geype.es/feed/" />
+<link rel="alternate" type="application/rss+xml" title="GEYPE &raquo; RSS de los comentarios" href="https://geype.es/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/geype.es\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Geype v.1.0.0" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cookielawinfo-style-css'  href='https://geype.es/wp-content/plugins/cookie-law-info/css/cli-style.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='et-gf-open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='et_monarch-css-css'  href='https://geype.es/wp-content/plugins/monarch/css/style.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css'  href='https://geype.es/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.css?ver=1' type='text/css' media='all' />
+<style id='wpml-legacy-horizontal-list-0-inline-css' type='text/css'>
+.wpml-ls-statics-footer a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-footer a:hover,.wpml-ls-statics-footer a:focus {color:#000000;background-color:#eeeeee;}.wpml-ls-statics-footer .wpml-ls-current-language>a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-footer .wpml-ls-current-language:hover>a, .wpml-ls-statics-footer .wpml-ls-current-language>a:focus {color:#000000;background-color:#eeeeee;}
+</style>
+<link rel='stylesheet' id='wpml-menu-item-0-css'  href='https://geype.es/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='et-builder-theme-style-css-css'  href='https://geype.es/wp-content/themes/Divi/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='-style-css'  href='https://geype.es/wp-content/themes/geype/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='https://geype.es/wp-content/themes/geype/style.css?ver=3.0.40' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-css'  href='https://geype.es/wp-content/plugins/newsletter/style.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-css-css'  href='https://geype.es/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=3.0.40' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='https://geype.es/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0.40' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://geype.es/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=3.0.40' type='text/css' media='all' />
+<script type='text/javascript' src='https://geype.es/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://geype.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://geype.es/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?ver=1.6.3'></script>
+<link rel='https://api.w.org/' href='https://geype.es/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://geype.es/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://geype.es/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<link rel='shortlink' href='https://geype.es/' />
+<link rel="alternate" type="application/json+oembed" href="https://geype.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgeype.es%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://geype.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgeype.es%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:3.8.4 stt:1,2;" />
+<style type="text/css" id="et-social-custom-css">
+				 
+			</style><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//geype.es/?wordfence_lh=1&hid=15A60350119D0A9D79D348E39920BCFE');
+</script><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />		<style id="theme-customizer-css">
+													.woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message, .woocommerce-error, .woocommerce-info { background: #933333 !important; }
+			#et_search_icon:hover, .mobile_menu_bar:before, .mobile_menu_bar:after, .et_toggle_slide_menu:after, .et-social-icon a:hover, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .nav-single a, .posted_in a { color: #933333; }
+			.et_pb_contact_submit, .et_password_protected_form .et_submit_button, .et_pb_bg_layout_light .et_pb_newsletter_button, .comment-reply-link, .form-submit .et_pb_button, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button { color: #933333; }
+			.footer-widget h4 { color: #933333; }
+			.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before, blockquote { border-color: #933333; }
+			.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content, .et_link_content, .et_audio_content, .et_pb_post_slider.et_pb_bg_layout_dark, .et_slide_in_menu_container { background-color: #933333; }
+							.container, .et_pb_row, .et_pb_slider .et_pb_container, .et_pb_fullwidth_section .et_pb_title_container, .et_pb_fullwidth_section .et_pb_title_featured_container, .et_pb_fullwidth_header:not(.et_pb_fullscreen) .et_pb_fullwidth_header_container { max-width: 1251px; }
+			.et_boxed_layout #page-container, .et_fixed_nav.et_boxed_layout #page-container #top-header, .et_fixed_nav.et_boxed_layout #page-container #main-header, .et_boxed_layout #page-container .container, .et_boxed_layout #page-container .et_pb_row { max-width: 1411px; }
+							a { color: #933333; }
+													#top-header, #et-secondary-nav li ul { background-color: #933333; }
+													.et_header_style_centered .mobile_nav .select_page, .et_header_style_split .mobile_nav .select_page, .et_nav_text_color_light #top-menu > li > a, .et_nav_text_color_dark #top-menu > li > a, #top-menu a, .et_mobile_menu li a, .et_nav_text_color_light .et_mobile_menu li a, .et_nav_text_color_dark .et_mobile_menu li a, #et_search_icon:before, .et_search_form_container input, span.et_close_search_field:after, #et-top-navigation .et-cart-info { color: #000000; }
+			.et_search_form_container input::-moz-placeholder { color: #000000; }
+			.et_search_form_container input::-webkit-input-placeholder { color: #000000; }
+			.et_search_form_container input:-ms-input-placeholder { color: #000000; }
+											#top-menu li a { font-size: 12px; }
+			body.et_vertical_nav .container.et_search_form_container .et-search-form input { font-size: 12px !important; }
+		
+		
+					#top-menu li.current-menu-ancestor > a, #top-menu li.current-menu-item > a,
+			.et_color_scheme_red #top-menu li.current-menu-ancestor > a, .et_color_scheme_red #top-menu li.current-menu-item > a,
+			.et_color_scheme_pink #top-menu li.current-menu-ancestor > a, .et_color_scheme_pink #top-menu li.current-menu-item > a,
+			.et_color_scheme_orange #top-menu li.current-menu-ancestor > a, .et_color_scheme_orange #top-menu li.current-menu-item > a,
+			.et_color_scheme_green #top-menu li.current-menu-ancestor > a, .et_color_scheme_green #top-menu li.current-menu-item > a { color: #933333; }
+							#main-footer { background-color: #eaeaea; }
+							#footer-widgets .footer-widget a,
+			#footer-widgets .footer-widget li a,
+			#footer-widgets .footer-widget li a:hover { color: #933333; }
+							.footer-widget { color: #7a7a7a; }
+							#main-footer .footer-widget h4 { color: #000000; }
+							.footer-widget li:before { border-color: #933333; }
+							.footer-widget, .footer-widget li, .footer-widget li a, #footer-info { font-size: 12px; }
+				.footer-widget .et_pb_widget div, .footer-widget .et_pb_widget ul, .footer-widget .et_pb_widget ol, .footer-widget .et_pb_widget label { line-height: 1.7em ; }#footer-widgets .footer-widget li:before { top: 7.2px; }.bottom-nav, .bottom-nav a { font-size: 12px ; }#footer-bottom { background-color: #ffffff; }#footer-info, #footer-info a { color: #0a0a0a; }										
+		
+																														
+		@media only screen and ( min-width: 981px ) {
+																									.footer-widget h4 { font-size: 15px; }
+										.et_header_style_left #et-top-navigation, .et_header_style_split #et-top-navigation  { padding: 56px 0 0 0; }
+				.et_header_style_left #et-top-navigation nav > ul > li > a, .et_header_style_split #et-top-navigation nav > ul > li > a { padding-bottom: 56px; }
+				.et_header_style_split .centered-inline-logo-wrap { width: 112px; margin: -112px 0; }
+				.et_header_style_split .centered-inline-logo-wrap #logo { max-height: 112px; }
+				.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo { height: 112px; }
+				.et_header_style_centered #top-menu > li > a { padding-bottom: 20px; }
+				.et_header_style_slide #et-top-navigation, .et_header_style_fullscreen #et-top-navigation { padding: 47px 0 47px 0 !important; }
+									.et_header_style_centered #main-header .logo_container { height: 112px; }
+																	.et_header_style_centered #logo { max-height: 78%; }
+				.et_pb_svg_logo.et_header_style_centered #logo { height: 78%; }
+																.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container, .et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container { height: 20.16px; }
+																.et-fixed-header#top-header, .et-fixed-header#top-header #et-secondary-nav li ul { background-color: #933333; }
+													.et-fixed-header #top-menu li a { font-size: 12px; }
+										.et-fixed-header #top-menu a, .et-fixed-header #et_search_icon:before, .et-fixed-header #et_top_search .et-search-form input, .et-fixed-header .et_search_form_container input, .et-fixed-header .et_close_search_field:after, .et-fixed-header #et-top-navigation .et-cart-info { color: #000000 !important; }
+				.et-fixed-header .et_search_form_container input::-moz-placeholder { color: #000000 !important; }
+				.et-fixed-header .et_search_form_container input::-webkit-input-placeholder { color: #000000 !important; }
+				.et-fixed-header .et_search_form_container input:-ms-input-placeholder { color: #000000 !important; }
+										.et-fixed-header #top-menu li.current-menu-ancestor > a,
+				.et-fixed-header #top-menu li.current-menu-item > a { color: #933333 !important; }
+						
+					}
+					@media only screen and ( min-width: 1563px) {
+				.et_pb_row { padding: 31px 0; }
+				.et_pb_section { padding: 62px 0; }
+				.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper { padding-top: 93px; }
+				.et_pb_section.et_pb_section_first { padding-top: inherit; }
+				.et_pb_fullwidth_section { padding: 0; }
+			}
+		
+		@media only screen and ( max-width: 980px ) {
+																				}
+		@media only screen and ( max-width: 767px ) {
+										h1 { font-size: 22px; }
+				h2, .product .related h2, .et_pb_column_1_2 .et_quote_content blockquote p { font-size: 18px; }
+				h3 { font-size: 16px; }
+				h4, .et_pb_circle_counter h3, .et_pb_number_counter h3, .et_pb_column_1_3 .et_pb_post h2, .et_pb_column_1_4 .et_pb_post h2, .et_pb_blog_grid h2, .et_pb_column_1_3 .et_quote_content blockquote p, .et_pb_column_3_8 .et_quote_content blockquote p, .et_pb_column_1_4 .et_quote_content blockquote p, .et_pb_blog_grid .et_quote_content blockquote p, .et_pb_column_1_3 .et_link_content h2, .et_pb_column_3_8 .et_link_content h2, .et_pb_column_1_4 .et_link_content h2, .et_pb_blog_grid .et_link_content h2, .et_pb_column_1_3 .et_audio_content h2, .et_pb_column_3_8 .et_audio_content h2, .et_pb_column_1_4 .et_audio_content h2, .et_pb_blog_grid .et_audio_content h2, .et_pb_column_3_8 .et_pb_audio_module_content h2, .et_pb_column_1_3 .et_pb_audio_module_content h2, .et_pb_gallery_grid .et_pb_gallery_item h3, .et_pb_portfolio_grid .et_pb_portfolio_item h2, .et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2 { font-size: 13px; }
+				.et_pb_slider.et_pb_module .et_pb_slides .et_pb_slide_description .et_pb_slide_title { font-size: 33px; }
+				.woocommerce ul.products li.product h3, .woocommerce-page ul.products li.product h3, .et_pb_gallery_grid .et_pb_gallery_item h3, .et_pb_portfolio_grid .et_pb_portfolio_item h2, .et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2, .et_pb_column_1_4 .et_pb_audio_module_content h2 { font-size: 11px; }
+											}
+	</style>
+
+	
+					<style class="et_heading_font">
+				h1, h2, h3, h4, h5, h6 {
+					font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif;				}
+				</style>
+							<style class="et_body_font">
+				body, input, textarea, select {
+					font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif;				}
+				</style>
+			
+	
+	<style id="module-customizer-css">
+			</style>
+
+	<link rel="icon" href="https://geype.es/wp-content/uploads/2017/02/cropped-favicon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://geype.es/wp-content/uploads/2017/02/cropped-favicon-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://geype.es/wp-content/uploads/2017/02/cropped-favicon-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://geype.es/wp-content/uploads/2017/02/cropped-favicon-270x270.jpg" />
+		<style type="text/css" id="wp-custom-css">
+			.et-social-instagram a.icon:before { content: 'e09a'; }
+.et-social-twitter a.icon:before { content: '\e09d'; }
+.et-social-google-plus a.icon:before { content: '\e096'; }
+
+.gform_wrapper .gfield_required {
+    display: none;
+}
+
+.gfield_radio {
+    display: inline;
+}
+.gfield_radio li {
+    float: left;
+    margin-right:30px;
+    margin-bottom: 20px;
+}
+.gfield_radio li:last-child{
+    margin-right:0px;
+}
+.gfield > .validation_message{
+    font-size:14px;
+    color: red;
+} 
+.gfield input {
+    color: black !important;
+}
+.politica .gfield_checkbox li {
+    margin-top: -20px;
+}
+body .gform_wrapper ul li.gfield {
+    margin-top: 0px;
+    padding-top: 0;
+}
+
+.gform_wrapper {
+    margin: 0px 0;
+    max-width: 100%;
+}
+
+.gform_wrapper.gf_browser_chrome .gfield_checkbox li input, .gform_wrapper.gf_browser_chrome .gfield_checkbox li input[type=checkbox], .gform_wrapper.gf_browser_chrome .gfield_radio li input[type=radio] {
+ margin-top: -13px !important;
+}
+
+.et_project_meta,
+article.project > .nav-single {
+display: none;
+}
+.tabla_avela{
+		background-color: lightgray;
+		font-size: 15px;
+		border: 0px solid blue;
+		border-radius: 20px;
+		
+		border-color: blue;
+		font-weight: 900;
+	}
+/* Arreglo para color picker en edicion visual de contenido*/
+.wp-picker-container a span{position: relative!important;}		</style>
+	<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<meta name="google-site-verification" content="ViphvVGRbIQV4whCGHJ20Pgcf0u2BW1wM8li9bdLMW0" />
+</head>
+<body class="home page-template-default page page-id-39 et_monarch et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_pb_gutter windows et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_centered et_pb_pagebuilder_layout et_right_sidebar et_divi_theme gecko">
+	<div id="page-container">
+
+	
+	
+		<header id="main-header" data-height-onload="112">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://geype.es/">
+						<img src="https://geype.es/wp-content/uploads/2017/02/logo.png" alt="GEYPE" id="logo" data-height-percentage="78" />
+					</a>
+				</div>
+
+				
+				<div id="et-top-navigation" data-height="112" data-fixed-height="40">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-wpml-ls-2-en" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-en wpml-ls-menu-item wpml-ls-first-item wpml-ls-last-item menu-item-wpml-ls-2-en"><a title="English" href="https://geype.es/?lang=en"><img class="wpml-ls-flag" src="https://geype.es/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" title="English"><span class="wpml-ls-native">English</span></a></li>
+<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-39 current_page_item menu-item-64"><a href="https://geype.es/">INICIO</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-62"><a href="https://geype.es/la-empresa/">LA EMPRESA</a>
+<ul class="sub-menu">
+	<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="https://geype.es/la-empresa/historia/">HISTORIA</a></li>
+	<li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247"><a href="https://geype.es/la-empresa/equipo/">EQUIPO</a></li>
+	<li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238"><a href="https://geype.es/la-empresa/mision/">MISIÓN</a></li>
+	<li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a href="https://geype.es/la-empresa/valores-diferenciales/">VALORES DIFERENCIALES</a></li>
+</ul>
+</li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-63"><a href="https://geype.es/servicios-de-ingenieria/">SERVICIOS DE INGENIERÍA</a>
+<ul class="sub-menu">
+	<li id="menu-item-243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-243"><a href="https://geype.es/servicios-de-ingenieria/area-agroindustrial/">ÁREA AGROINDUSTRIAL</a></li>
+	<li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240"><a href="https://geype.es/servicios-de-ingenieria/area-industrial/">ÁREA INDUSTRIAL</a></li>
+	<li id="menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241"><a href="https://geype.es/servicios-de-ingenieria/area-energias-renovables/">ÁREA ENERGÍAS RENOVABLES</a></li>
+	<li id="menu-item-242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242"><a href="https://geype.es/servicios-de-ingenieria/area-instalaciones-edificacion/">ÁREA INSTALACIONES DE EDIFICACIÓN</a></li>
+	<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="https://geype.es/servicios-de-ingenieria/area-instalaciones-hidraulicas/">ÁREA INSTALACIONES HIDRÁULICAS</a></li>
+</ul>
+</li>
+<li id="menu-item-244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-244"><a href="https://geype.es/gestion-energetica/">GESTIÓN ENERGÉTICA</a>
+<ul class="sub-menu">
+	<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="https://geype.es/gestion-energetica/gestion-cartera-energia/">GESTIÓN CARTERA DE ENERGÍA</a></li>
+	<li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246"><a href="https://geype.es/gestion-energetica/eficiencia-energetica/">EFICIENCIA ENERGÉTICA</a></li>
+	<li id="menu-item-1929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1929"><a href="https://geype.es/smac/">SMAC – SISTEMA DE MONITORIZACIÓN</a></li>
+</ul>
+</li>
+<li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-249"><a href="https://geype.es/nuestros-trabajos/">NUESTROS TRABAJOS</a>
+<ul class="sub-menu">
+	<li id="menu-item-1494" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1494"><a href="https://geype.es/project/trabajos-ingenieria/">TRABAJOS EN INGENIERÍA</a></li>
+	<li id="menu-item-1496" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1496"><a href="https://geype.es/project/trabajos-gestion-energetica/">TRABAJOS EN GESTIÓN ENERGÉTICA</a></li>
+	<li id="menu-item-1495" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1495"><a href="https://geype.es/project/trabajos-smac/">TRABAJOS CON SMAC</a></li>
+	<li id="menu-item-1493" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1493"><a href="https://geype.es/project/trabajos-auditorias/">TRABAJOS EN AUDITORÍAS</a></li>
+</ul>
+</li>
+<li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a href="https://geype.es/clientes/">CLIENTES</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="https://geype.es/noticias/">NOTICIAS</a></li>
+<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="https://geype.es/contactar/">CONTACTAR</a></li>
+</ul>						</nav>
+					
+					
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Seleccionar página</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://geype.es/">
+					<input type="search" class="et-search-field" placeholder="Búsqueda &hellip;" value="" name="s" title="Buscar:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+
+		<div id="et-main-area">
+<div id="main-content">
+
+
+			
+				<article id="post-39" class="post-39 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et_pb_section et_pb_fullwidth_section  et_pb_section_0 et_section_regular">
+				
+				
+					
+					<div class="et_pb_module et_pb_slider et_slider_auto et_slider_speed_7000  et_pb_fullwidth_slider_0">
+				<div class="et_pb_slides">
+					<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_0 et-pb-active-slide" style='background-color:#ffffff;background-image:url(https://geype.es/wp-content/uploads/2017/01/slider_gestion_energetica-1080x264.jpg);'>
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							<div class="et_pb_slide_content">
+<h1>SERVICIOS PROFESIONALES DE INGENIERÍA Y GESTIÓN DE EFICIENCIA ENERGÉTICA A MEDIDA</h1>
+<h2 style="text-align: center;">En GE&#038;PE, proporcionamos soluciones basadas en nuestros recursos tecnológicos y experiencia acumulada</h2>
+</div>
+							
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_1" style='background-color:#ffffff;background-image:url(https://geype.es/wp-content/uploads/2017/03/banner-geype-1080x264.jpg);'>
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							<h2 class="et_pb_slide_title">EN GE&PE INGENIERÍA SOMOS ESPECIALISTAS EN</h2>
+							<div class="et_pb_slide_content">Estudios, Proyectos de viabilidad, Proyectos de ejecución, Dirección de obras, Anteproyectos, Trámites administrativos y Asistencia en contrataciones.</p>
+</div>
+							
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_2" style='background-color:#ffffff;background-image:url(https://geype.es/wp-content/uploads/2017/03/b2-1080x264.jpg);'>
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							<h2 class="et_pb_slide_title">EN GE&PE GESTIÓN ENERGÉTICA SOMOS EXPERTOS EN</h2>
+							<div class="et_pb_slide_content">
+<p>Auditoria, Asesoramiento y Seguimiento en el ámbito de los costes energéticos, tanto de precio como de consumo.</p>
+</div>
+							
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			
+				</div> <!-- .et_pb_slides -->
+			</div> <!-- .et_pb_slider -->
+			
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_fullwidth_section  et_pb_section_1 et_section_regular">
+				
+				
+					
+					<div class="et_pb_module et_pb_slider et_pb_slider_no_pagination et_slider_auto et_slider_speed_7000  et_pb_fullwidth_slider_1">
+				<div class="et_pb_slides">
+					<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_3 et-pb-active-slide" style='background-color:#ffffff;background-image:url(https://geype.es/wp-content/uploads/2017/01/slider_gestion_energetica-1080x264.jpg);'>
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							<h2 class="et_pb_slide_title">GE&PE, SERVICIOS PROFESIONALES DE INGENIERÍA Y GESTIÓN DE EFICIENCIA ENERGÉTICA A MEDIDA </h2>
+							<div class="et_pb_slide_content">
+<p style="text-align: center;">En GE&#038;PE Ingeniería, proporcionamos soluciones basadas en nuestros recursos tecnológicos y experiencia acumulada</p>
+</div>
+							
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_4" style='background-color:#ffffff;background-image:url(https://geype.es/wp-content/uploads/2017/03/banner-geype-1080x264.jpg);'>
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							<h2 class="et_pb_slide_title">EN GE&PE INGENIERÍA SOMOS ESPECIALISTAS EN</h2>
+							<div class="et_pb_slide_content">
+<p>Estudios, Proyectos de viabilidad, Proyectos de ejecución, Dirección de obras, Anteproyectos, Trámites administrativos y Asistencia en contrataciones.</p>
+</div>
+							
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			<div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_5" style='background-color:#ffffff;background-image:url(https://geype.es/wp-content/uploads/2017/03/b2-1080x264.jpg);'>
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							<h2 class="et_pb_slide_title">EN GE&PE GESTIÓN ENERGÉTICA SOMOS EXPERTOS EN</h2>
+							<div class="et_pb_slide_content">
+<p>Auditoria, Asesoramiento y Seguimiento en el ámbito de los costes energéticos, tanto de precio como de consumo.</p>
+</div>
+							
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			
+				</div> <!-- .et_pb_slides -->
+			</div> <!-- .et_pb_slider -->
+			
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section  et_pb_section_2 et_section_regular">
+				
+				
+					
+					<div class="geype-home-blocks et_pb_row et_pb_row_0 et_pb_equal_columns et_pb_row_fullwidth">
+				
+				
+				<div class="et_pb_column et_pb_column_1_3  et_pb_column_0">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_justified  et_pb_text_0">
+				
+<h2 style="text-align: center;"><span style="color: #933333;">SERVICIOS DE INGENIER&Iacute;A</span></h2>
+<p style="text-align: center;">Los servicos de GE&amp;PE cubren todo el espectro de necesidades de su organizaci&oacute;n, desde la realizaci&oacute;n de estudios preliminares, hasta la ejecuci&oacute;n de proyectos &#8220;llave en mano&#8221;.</p>
+<p style="text-align: center;"><a href="https://geype.es/servicio-ingenieria/">SABER M&Aacute;S</a></p>
+
+			</div> <!-- .et_pb_text --><div class="et_pb_module et-waypoint et_pb_image et_pb_animation_off et_pb_image_0 et_always_center_on_mobile">
+				<img src="https://geype.es/wp-content/uploads/2017/02/foto-tubos-400x284.jpg" alt="ingeniería" title="área industrial" />
+			
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3  et_pb_column_1">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_justified  et_pb_text_1">
+				
+<h2 style="text-align: center;"><a href="https://geype.es/gestion-energetica"><span style="color: #933333;">GESTIÓN ENERGÉTICA</span></a></h2>
+<p class="MsoNormal">En GE&#038;PE gestión energética analizamos el precio al que se compra la energía (electricidad, gas, fuel), asesoramos sobre el mejor contrato para cada cliente y realizamos estudios de eficiencia energética para cualquier tipo de instalación.</p>
+<p class="MsoNormal" style="text-align: center;"><a href="https://geype.es/gestion-energetica/">SABER MÁS</a></p>
+
+			</div> <!-- .et_pb_text --><div class="et_pb_module et-waypoint et_pb_image et_pb_animation_off et_pb_image_1 et_always_center_on_mobile">
+				<img src="https://geype.es/wp-content/uploads/2017/01/MOLINOS-400x284.jpg" alt="ingeniería energética" title="área de eficiencia y gestión energética" />
+			
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3  et_pb_column_2">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_justified  et_pb_text_2">
+				
+<h2 style="text-align: center;"><span style="color: #933333;">NUESTROS TRABAJOS</span></h2>
+<p style="text-align: center;">En GE&#038;PE realizamos cientos de proyectos al año, tenemos una extensa cartera de clientes. Clientes que confían en nuestra profesionalidad. Nuestros trabajos hablan por nosotros.</p>
+<p style="text-align: center;"><a href="https://geype.es/nuestros-trabajos/">SABER MÁS</a></p>
+
+			</div> <!-- .et_pb_text --><div class="et_pb_module et-waypoint et_pb_image et_pb_animation_off et_pb_image_2 et_always_center_on_mobile">
+				<img src="https://geype.es/wp-content/uploads/2017/01/fotolia_102937333-400x284.jpg" alt="clientes" title="nuestros trabajos" />
+			
+			</div>
+			</div> <!-- .et_pb_column -->
+			</div> <!-- .et_pb_row -->
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section  et_pb_section_3 et_section_regular">
+				
+				
+					
+					<div class=" et_pb_row et_pb_row_1 et_pb_equal_columns et_pb_gutters2">
+				
+				
+				<div class="et_pb_column et_pb_column_4_4  et_pb_column_3">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_justified  et_pb_text_3">
+				
+<h2 style="text-align: center;"><span style="color: #933333;">SERVICIOS DE INGENIER&Iacute;A</span></h2>
+<p style="text-align: center;">Los servicos de GE&amp;PE cubren todo el espectro de necesidades de su organizaci&oacute;n, desde la realizaci&oacute;n de estudios preliminares, hasta la ejecuci&oacute;n de proyectos &#8220;llave en mano&#8221;.</p>
+<p style="text-align: center;"><a href="https://geype.es/servicio-ingenieria/">SABER M&Aacute;S</a></p>
+
+			</div> <!-- .et_pb_text --><div class="et_pb_module et-waypoint et_pb_image et_pb_animation_off et_pb_image_3 et_always_center_on_mobile">
+				<img src="https://geype.es/wp-content/uploads/2017/02/foto-tubos-400x284.jpg" alt="ingeniería" title="área industrial" />
+			
+			</div><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_justified  et_pb_text_4">
+				
+<h2 style="text-align: center;"><a href="https://geype.es/gestion-energetica"><span style="color: #933333;">GESTIÓN ENERGÉTICA</span></a></h2>
+<p style="text-align: center;"><span style="font-size: 15px; text-align: justify; background-color: #e2e2e2;">En GE&#038;PE gestión energética analizamos el precio al que se compra la energía (electricidad, gas, fuel), asesoramos sobre el mejor contrato para cada cliente y realizamos estudios de eficiencia energética para cualquier tipo de instalación.</span></p>
+<p style="text-align: center;"><a href="https://geype.es/gestion-energetica/">SABER MÁS</a></p>
+
+			</div> <!-- .et_pb_text --><div class="et_pb_module et-waypoint et_pb_image et_pb_animation_off et_pb_image_4 et_always_center_on_mobile">
+				<img src="https://geype.es/wp-content/uploads/2017/01/MOLINOS-400x284.jpg" alt="ingeniería energética" title="área de eficiencia y gestión energética" />
+			
+			</div><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_justified  et_pb_text_5">
+				
+<h2 style="text-align: center;"><span style="color: #933333;">NUESTROS TRABAJOS</span></h2>
+<p style="text-align: center;">En GE&#038;PE realizamos cientos de proyectos al año, tenemos una extensa cartera de clientes. Clientes que confían en nuestra profesionalidad. Nuestros trabajos hablan por nosotros.</p>
+<p style="text-align: center;"><a href="https://geype.es/casos-de-exito/">SABER MÁS</a></p>
+
+			</div> <!-- .et_pb_text --><div class="et_pb_module et-waypoint et_pb_image et_pb_animation_off et_pb_image_5 et_always_center_on_mobile">
+				<img src="https://geype.es/wp-content/uploads/2017/01/fotolia_102937333-400x284.jpg" alt="clientes" title="nuestros trabajos" />
+			
+			</div>
+			</div> <!-- .et_pb_column -->
+			</div> <!-- .et_pb_row -->
+				
+			</div> <!-- .et_pb_section -->
+					</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+</div> <!-- #main-content -->
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+	<div id="footer-widgets" class="clearfix">
+	<div class="footer-widget"><div id="text-6" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><IMG SRC="https://geype.es/wp-content/uploads/2017/02/logosim.jpg" alt="logo-geype" ></br>
+
+Email:<a href="mailto:info@geype.com">info@geype.com </a></br>
+
+
+Tlf: (+34) 954 636 737 
+<br>
+<a href="https://geype.es/blog/geype-entidad-colaboradora-la-agencia-andaluza-la-energia-programa-incentivos-desarrollo-energetico-sostenible-andalucia-dotado-227-millones-euros/"><img src="https://geype.es/wp-content/uploads/2017/10/colaboradora.png" alt="" width="160"></a></div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-7" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><div>
+<a href="https://geype.es/blog/gepe-ingenieria-certificada-aenor-proveedor-servicios-energeticos/">
+<img src="https://geype.es/wp-content/uploads/2018/02/sello-aenor-150x150.jpg" alt="sello aenor"/></a>
+</div>
+<br>
+<h4 class="title">HERRAMIENTAS PROPIAS</h4>
+<p>
+<a target="_blank" href="https://geype.es/smac"><img src="https://geype.es/wp-content/uploads/2017/03/Smac-reducido.png" alt="logo-smac"></a>
+<p>
+<h4 class="title">EMPRESA ASOCIADA PARA ATENDER CLIENTES EUROPEOS</h4>
+<p>
+<a target="_blank" href="https://www.kinectenergy.com/"><img src="https://geype.es/wp-content/uploads/2017/03/kinect.png" alt="logo-kinetic" ></a>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-2" class="fwidget et_pb_widget widget_text"><h4 class="title">ENLACES DE INTERÉS</h4>			<div class="textwidget"><p><a target="_blank" href="http://www.omie.es/files/flash/ResultadosMercado.swf" >Resultados del Operador del Mercado Ibérico Eléctrico</a></p>
+
+<p><a target="_blank" href="http://www.omip.pt/OMIP/tabid/62/language/es-ES/Default.aspx" >Cotización precios a futuro según OMIP</a></p>
+
+<p><a target="_blank" href="http://www.ree.es/es" >REE </a></p>
+
+<p><a target="_blank" href="https://www.cnmc.es" >CNMC</a></p>
+
+<p><a href="https://geype.es/newsletter/" > Suscríbase a nuestra newsletter</a></p>
+<br>
+<a href="https://geype.es/wp-content/uploads/2018/07/arbitraje-consumo.pdf">
+<img src="https://geype.es/wp-content/uploads/2018/07/arbitraje-consumo.jpg" alt="sistema de arbitraje de consumo" width="100">
+</a>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget last"><div id="nav_menu-3" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">TEXTOS LEGALES</h4><div class="menu-textos-legales-container"><ul id="menu-textos-legales" class="menu"><li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="https://geype.es/aviso-legal/">AVISO LEGAL</a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="https://geype.es/cookies/">COOKIES</a></li>
+<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="https://geype.es/politica-de-tratamiento-de-datos/">POLÍTICA DE TRATAMIENTO DE DATOS</a></li>
+</ul></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
+</div>	<!-- .container -->
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<ul class="et-social-icons">
+
+	<li class="et-social-icon et-social-facebook">
+		<a target="_blank" href="https://www.facebook.com/Gestion.y.productividad.energetica/" class="icon">
+			<span>Facebook</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-twitter">
+		<a target="_blank" href="https://www.linkedin.com/company/2039007/" class="icon">
+			<span>Twitter</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-google-plus">
+		<a target="_blank" href="https://plus.google.com/b/111410147135369179696/111410147135369179696" class="icon">
+			<span>Google</span>
+		</a>
+	</li>
+
+
+
+</ul><div id="footer-info"><a target="_blank" href="#"></a></div>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<div id="cookie-law-info-bar"><span>Utilizamos cookies propias y de terceros para mejorar nuestros servicios y mostrarle publicidad relacionada con sus preferencias mediante el análisis de sus hábitos de navegación. Si continua navegando, consideramos que acepta su uso. <a href="https://geype.es/cookies/" id="CONSTANT_OPEN_URL" target="_blank"  class="medium cli-plugin-button cli-plugin-main-link" >Más Información</a>.      <a href="#" target="_blank"  class="cookie_action_close_header medium cli-plugin-button cli-plugin-main-button" >ENTENDIDO</a></span></div>		
+		<script type="text/javascript">
+			//<![CDATA[
+			jQuery(document).ready(function() {
+				cli_show_cookiebar({
+					settings: '{"animate_speed_hide":"500","animate_speed_show":"500","background":"#9b9b9b","border":"#444","border_on":false,"button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":true,"button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#ffffff","button_2_as_button":true,"button_3_button_colour":"#000","button_3_button_hover":"#000000","button_3_link_colour":"#fff","button_3_as_button":true,"font_family":"inherit","header_fix":false,"notify_animate_hide":false,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"accept_close_reload":false,"showagain_tab":false,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#f4f4f4","show_once_yn":true,"show_once":"60000"}'
+				});
+			});
+			//]]>
+		</script>
+		
+		<style type="text/css" id="et-builder-advanced-style">
+				
+.et_pb_text_1 { font-size: 15px; background-color: #e2e2e2; padding-top: 50px !important; padding-right: 50px !important; padding-bottom: 50px !important; padding-left: 50px !important; }
+.et_pb_text_1.et_pb_text { color: #666666 !important; }
+.et_pb_text_1 h1 { color: #933333 !important; }
+.et_pb_column_1 { background-color:#E2E2E2; }
+.et_pb_image_1 { margin-top: -60px !important; margin-left: 0; }
+.et_pb_image_1 img { width: 100%; }
+.et_pb_text_2.et_pb_text { color: #666666 !important; }
+.et_pb_text_2 h1 { color: #933333 !important; }
+.et_pb_column_2 { background-color:#E2E2E2; }
+.et_pb_image_0 img { width: 100%; }
+.et_pb_image_0 { margin-top: -60px !important; margin-left: 0; }
+.et_pb_row_0.et_pb_row { padding-top: 57px; padding-right: 0px; padding-left: 0px; }
+.et_pb_section_2.et_pb_section { padding-top: 0px; padding-right: 0px; padding-bottom: 60px; padding-left: 0px; }
+.et_pb_fullwidth_slider_1 .et_pb_slide_description { padding-top: 50px; padding-bottom: 50px; }
+.et_pb_fullwidth_slider_1.et_pb_slider.et_pb_module .et_pb_slides .et_pb_slide_content { font-size: 14px !important; letter-spacing: 1px; line-height: 1.3em; }
+.et_pb_row_0 { background-color:#ffffff; }
+.et_pb_column_0 { background-color:#E2E2E2; }
+.et_pb_text_0 { font-size: 15px; background-color: #e2e2e2; padding-top: 50px !important; padding-right: 50px !important; padding-bottom: 50px !important; padding-left: 50px !important; }
+.et_pb_text_0.et_pb_text { color: #666666 !important; }
+.et_pb_text_0 h1 { color: #933333 !important; }
+.et_pb_text_2 { font-size: 15px; background-color: #e2e2e2; padding-top: 50px !important; padding-right: 50px !important; padding-bottom: 50px !important; padding-left: 50px !important; }
+.et_pb_image_2 { margin-top: -60px !important; margin-left: 0; }
+.et_pb_image_4 img { width: 100%; }
+.et_pb_image_4 { margin-top: -60px !important; margin-left: 0; }
+.et_pb_text_4 { font-size: 15px; background-color: #e2e2e2; padding-top: 50px !important; padding-right: 50px !important; padding-bottom: 50px !important; padding-left: 50px !important; }
+.et_pb_text_4.et_pb_text { color: #666666 !important; }
+.et_pb_text_5 h1 { color: #933333 !important; }
+.et_pb_text_5.et_pb_text { color: #666666 !important; }
+.et_pb_image_5 img { width: 100%; }
+.et_pb_image_5 { margin-top: -60px !important; margin-left: 0; }
+.et_pb_text_5 { font-size: 15px; background-color: #e2e2e2; padding-top: 50px !important; padding-right: 50px !important; padding-bottom: 50px !important; padding-left: 50px !important; }
+.et_pb_text_4 h1 { color: #933333 !important; }
+.et_pb_image_3 img { width: 100%; }
+.et_pb_row_1 { max-width:2600px !important; background-color:#ffffff; }
+.et_pb_row_1.et_pb_row { padding-top: 57px; padding-right: 0px; padding-left: 0px; }
+.et_pb_section_3.et_pb_section { padding-top: 0px; padding-right: 0px; padding-bottom: 60px; padding-left: 0px; }
+.et_pb_image_2 img { width: 100%; }
+.et_pb_column_3 { background-color:#ffffff; }
+.et_pb_text_3 h1 { color: #933333 !important; }
+.et_pb_image_3 { margin-top: -60px !important; margin-left: 0; }
+.et_pb_text_3 { font-size: 15px; background-color: #e2e2e2; padding-top: 50px !important; padding-right: 50px !important; padding-bottom: 50px !important; padding-left: 50px !important; }
+.et_pb_text_3.et_pb_text { color: #666666 !important; }
+.et_pb_fullwidth_slider_1.et_pb_slider p { line-height: 1.3em; }
+.et_pb_fullwidth_slider_1.et_pb_slider .et_pb_slide_description .et_pb_slide_title { font-size: 35px !important; letter-spacing: 3px; line-height: 1.1em; }
+.et_pb_fullwidth_slider_0.et_pb_slider .et_pb_slide_description .et_pb_slide_title { font-size: 35px !important; letter-spacing: 3px; line-height: 1.1em; }
+.et_pb_slider .et_pb_slide_2.et_pb_slide { background-position: center; }
+.et_pb_fullwidth_slider_0.et_pb_slider p { line-height: 1.6em; }
+.et_pb_fullwidth_slider_0.et_pb_slider.et_pb_module .et_pb_slides .et_pb_slide_content { font-size: 21px !important; letter-spacing: 1px; line-height: 1.6em; }
+.et_pb_section_1.et_pb_section { padding-bottom: 0px; }
+.et_pb_section_0.et_pb_section { padding-bottom: 0px; }
+.et_pb_slide_2.et_pb_slider_with_text_overlay .et_pb_slide_content { -webkit-border-bottom-right-radius: 1px;
+					-webkit-border-bottom-left-radius: 1px;
+					-moz-border-radius-bottomright: 1px;
+					-moz-border-radius-bottomleft: 1px;
+					border-bottom-right-radius: 1px;
+					border-bottom-left-radius: 1px; }
+.et_pb_slide_2.et_pb_slider_with_text_overlay h2.et_pb_slide_title { -webkit-border-top-left-radius: 1px;
+					-webkit-border-top-right-radius: 1px;
+					-moz-border-radius-topleft: 1px;
+					-moz-border-radius-topright: 1px;
+					border-top-left-radius: 1px;
+					border-top-right-radius: 1px; }
+.et_pb_slide_0.et_pb_slider_with_text_overlay .et_pb_slide_content { -webkit-border-bottom-right-radius: 1px;
+					-webkit-border-bottom-left-radius: 1px;
+					-moz-border-radius-bottomright: 1px;
+					-moz-border-radius-bottomleft: 1px;
+					border-bottom-right-radius: 1px;
+					border-bottom-left-radius: 1px; }
+.et_pb_slide_0.et_pb_slider_with_text_overlay h2.et_pb_slide_title { -webkit-border-top-left-radius: 1px;
+					-webkit-border-top-right-radius: 1px;
+					-moz-border-radius-topleft: 1px;
+					-moz-border-radius-topright: 1px;
+					border-top-left-radius: 1px;
+					border-top-right-radius: 1px; }
+.et_pb_slider .et_pb_slide_0.et_pb_slide { background-position: center; }
+.et_pb_slide_1.et_pb_slider_with_text_overlay h2.et_pb_slide_title { -webkit-border-top-left-radius: 1px;
+					-webkit-border-top-right-radius: 1px;
+					-moz-border-radius-topleft: 1px;
+					-moz-border-radius-topright: 1px;
+					border-top-left-radius: 1px;
+					border-top-right-radius: 1px; }
+.et_pb_slider .et_pb_slide_1.et_pb_slide { background-position: center; }
+.et_pb_slide_1.et_pb_slider_with_text_overlay .et_pb_slide_content { -webkit-border-bottom-right-radius: 1px;
+					-webkit-border-bottom-left-radius: 1px;
+					-moz-border-radius-bottomright: 1px;
+					-moz-border-radius-bottomleft: 1px;
+					border-bottom-right-radius: 1px;
+					border-bottom-left-radius: 1px; }
+.et_pb_slide_3.et_pb_slider_with_text_overlay h2.et_pb_slide_title { -webkit-border-top-left-radius: 1px;
+					-webkit-border-top-right-radius: 1px;
+					-moz-border-radius-topleft: 1px;
+					-moz-border-radius-topright: 1px;
+					border-top-left-radius: 1px;
+					border-top-right-radius: 1px; }
+.et_pb_fullwidth_slider_0 .et_pb_slide_description { padding-top: 100px; padding-bottom: 100px; }
+.et_pb_slide_4.et_pb_slider_with_text_overlay h2.et_pb_slide_title { -webkit-border-top-left-radius: 1px;
+					-webkit-border-top-right-radius: 1px;
+					-moz-border-radius-topleft: 1px;
+					-moz-border-radius-topright: 1px;
+					border-top-left-radius: 1px;
+					border-top-right-radius: 1px; }
+.et_pb_slide_4.et_pb_slider_with_text_overlay .et_pb_slide_content { -webkit-border-bottom-right-radius: 1px;
+					-webkit-border-bottom-left-radius: 1px;
+					-moz-border-radius-bottomright: 1px;
+					-moz-border-radius-bottomleft: 1px;
+					border-bottom-right-radius: 1px;
+					border-bottom-left-radius: 1px; }
+.et_pb_slider .et_pb_slide_4.et_pb_slide { background-position: center; }
+.et_pb_slide_5.et_pb_slider_with_text_overlay h2.et_pb_slide_title { -webkit-border-top-left-radius: 1px;
+					-webkit-border-top-right-radius: 1px;
+					-moz-border-radius-topleft: 1px;
+					-moz-border-radius-topright: 1px;
+					border-top-left-radius: 1px;
+					border-top-right-radius: 1px; }
+.et_pb_slider .et_pb_slide_5.et_pb_slide { background-position: center; }
+.et_pb_slide_5.et_pb_slider_with_text_overlay .et_pb_slide_content { -webkit-border-bottom-right-radius: 1px;
+					-webkit-border-bottom-left-radius: 1px;
+					-moz-border-radius-bottomright: 1px;
+					-moz-border-radius-bottomleft: 1px;
+					border-bottom-right-radius: 1px;
+					border-bottom-left-radius: 1px; }
+.et_pb_slide_3.et_pb_slider_with_text_overlay .et_pb_slide_content { -webkit-border-bottom-right-radius: 1px;
+					-webkit-border-bottom-left-radius: 1px;
+					-moz-border-radius-bottomright: 1px;
+					-moz-border-radius-bottomleft: 1px;
+					border-bottom-right-radius: 1px;
+					border-bottom-left-radius: 1px; }
+.et_pb_slider .et_pb_slide_3.et_pb_slide { background-position: center; }
+.et_pb_slide_1 p { line-height: 1.4em !important; }
+.et_pb_slider.et_pb_module .et_pb_slide_1.et_pb_slide .et_pb_slide_description .et_pb_slide_content { font-size: 25px !important; letter-spacing: 0px !important; line-height: 1.4em !important; }
+.et_pb_slider .et_pb_slide_1.et_pb_slide .et_pb_slide_description .et_pb_slide_title { text-transform: uppercase !important;font-size: 40px !important; }
+.et_pb_slide_0 p { line-height: 1.4em !important; }
+.et_pb_slider.et_pb_module .et_pb_slide_5.et_pb_slide .et_pb_slide_description .et_pb_slide_content { font-size: 15px !important; letter-spacing: 0px !important; line-height: 1.4em !important; }
+.et_pb_slider.et_pb_module .et_pb_slide_0.et_pb_slide .et_pb_slide_description .et_pb_slide_content { font-size: 25px !important; letter-spacing: 0px !important; line-height: 1.4em !important; }
+.et_pb_slider .et_pb_slide_0.et_pb_slide .et_pb_slide_description .et_pb_slide_title { font-size: 49px !important; }
+.et_pb_slide_2 p { line-height: 1.4em !important; }
+.et_pb_slide_4 p { line-height: 1.4em !important; }
+.et_pb_slider .et_pb_slide_4.et_pb_slide .et_pb_slide_description .et_pb_slide_title { text-transform: uppercase !important;font-size: 22px !important; }
+.et_pb_slider .et_pb_slide_3.et_pb_slide .et_pb_slide_description .et_pb_slide_title { font-size: 22px !important; }
+.et_pb_slide_3 p { line-height: 1.4em !important; }
+.et_pb_slider.et_pb_module .et_pb_slide_4.et_pb_slide .et_pb_slide_description .et_pb_slide_content { font-size: 15px !important; letter-spacing: 0px !important; line-height: 1.4em !important; }
+.et_pb_slider.et_pb_module .et_pb_slide_2.et_pb_slide .et_pb_slide_description .et_pb_slide_content { font-size: 25px !important; letter-spacing: 0px !important; line-height: 1.4em !important; }
+.et_pb_slider .et_pb_slide_5.et_pb_slide .et_pb_slide_description .et_pb_slide_title { font-size: 22px !important; }
+.et_pb_slider .et_pb_slide_2.et_pb_slide .et_pb_slide_description .et_pb_slide_title { font-size: 40px !important; }
+.et_pb_slider.et_pb_module .et_pb_slide_3.et_pb_slide .et_pb_slide_description .et_pb_slide_content { font-size: 15px !important; letter-spacing: 0px !important; line-height: 1.4em !important; }
+.et_pb_slide_5 p { line-height: 1.4em !important; }
+
+@media only screen and ( min-width: 981px ) {
+	.et_pb_section_3 { display: none !important; }
+	.et_pb_section_1 { display: none !important; }
+}
+
+@media only screen and ( max-width: 980px ) {
+	.et_pb_fullwidth_slider_0.et_pb_slider .et_pb_slide_description .et_pb_slide_title { font-size: 30px !important; }
+	.et_pb_fullwidth_slider_1.et_pb_slider .et_pb_slide_description .et_pb_slide_title { font-size: 24px !important; }
+	.et_pb_slider .et_pb_slide_5.et_pb_slide .et_pb_slide_description .et_pb_slide_title { font-size: 22px !important; }
+	.et_pb_slider.et_pb_module .et_pb_slide_5.et_pb_slide .et_pb_slide_description .et_pb_slide_content { font-size: 15px !important; }
+	.et_pb_slider .et_pb_slide_4.et_pb_slide .et_pb_slide_description .et_pb_slide_title { font-size: 22px !important; }
+	.et_pb_slider .et_pb_slide_3.et_pb_slide .et_pb_slide_description .et_pb_slide_title { font-size: 22px !important; }
+	.et_pb_slider.et_pb_module .et_pb_slide_3.et_pb_slide .et_pb_slide_description .et_pb_slide_content { font-size: 15px !important; }
+	.et_pb_slider.et_pb_module .et_pb_slide_4.et_pb_slide .et_pb_slide_description .et_pb_slide_content { font-size: 15px !important; }
+}
+
+@media only screen and ( min-width: 768px ) and ( max-width: 980px ) {
+	.et_pb_section_3 { display: none !important; }
+	.et_pb_section_0 { display: none !important; }
+	.et_pb_fullwidth_slider_0 { display: none !important; }
+}
+
+@media only screen and ( max-width: 767px ) {
+	.et_pb_fullwidth_slider_0.et_pb_slider .et_pb_slide_description .et_pb_slide_title { font-size: 24px !important; }
+	.et_pb_section_2 { display: none !important; }
+	.et_pb_section_0 { display: none !important; }
+	.et_pb_slider.et_pb_module .et_pb_slide_5.et_pb_slide .et_pb_slide_description .et_pb_slide_content { font-size: 15px !important; }
+	.et_pb_slider .et_pb_slide_5.et_pb_slide .et_pb_slide_description .et_pb_slide_title { font-size: 22px !important; }
+	.et_pb_slider .et_pb_slide_4.et_pb_slide .et_pb_slide_description .et_pb_slide_title { font-size: 22px !important; }
+	.et_pb_slider .et_pb_slide_3.et_pb_slide .et_pb_slide_description .et_pb_slide_title { font-size: 22px !important; }
+	.et_pb_slider.et_pb_module .et_pb_slide_3.et_pb_slide .et_pb_slide_description .et_pb_slide_content { font-size: 15px !important; }
+	.et_pb_slider.et_pb_module .et_pb_slide_4.et_pb_slide .et_pb_slide_description .et_pb_slide_content { font-size: 15px !important; }
+}
+			</style><style type="text/css" id="et-builder-page-custom-style">
+				 .et_pb_bg_layout_dark { color: #ffffff !important; } .page.et_pb_pagebuilder_layout #main-content { background-color: rgba(255,255,255,0); } .et_pb_section { background-color: #ffffff; }
+			</style><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8894148-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-8894148-1');
+</script>
+
+<div class="wpml-ls-statics-footer wpml-ls wpml-ls-legacy-list-horizontal">
+	<ul><li class="wpml-ls-slot-footer wpml-ls-item wpml-ls-item-en wpml-ls-first-item wpml-ls-last-item wpml-ls-item-legacy-list-horizontal">
+				<a href="https://geype.es/?lang=en"><img class="wpml-ls-flag" src="https://geype.es/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" title="English"><span class="wpml-ls-native">English</span></a>
+			</li></ul>
+</div><script type='text/javascript' src='https://geype.es/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-global-functions.js?ver=3.0.40'></script>
+<script type='text/javascript' src='https://geype.es/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.3.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"https:\/\/geype.es\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/geype.es\/","stats_nonce":"859fb8303e","share_counts":"77dc4fa877","follow_counts":"e905391860","total_counts":"b444f7d3e8","media_single":"c15452ce77","media_total":"cc78deedc5","generate_all_window_nonce":"c6291f6733","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://geype.es/wp-content/plugins/monarch/js/custom.js?ver=1.3.4'></script>
+<script type='text/javascript' src='https://geype.es/wp-content/themes/Divi/includes/builder/scripts/jquery.mobile.custom.min.js?ver=3.0.40'></script>
+<script type='text/javascript' src='https://geype.es/wp-content/themes/Divi/js/custom.js?ver=3.0.40'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var newsletter = {"messages":{"email_error":"El email no es correcto","name_error":"El nombre no es correcto","surname_error":"El apellido no es correcto","profile_error":"","privacy_error":"Debe aceptar las normas de privacidad"},"profile_max":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://geype.es/wp-content/plugins/newsletter/subscription/validate.js?ver=5.6.7'></script>
+<script type='text/javascript' src='https://geype.es/wp-content/themes/Divi/includes/builder/scripts/jquery.fitvids.js?ver=3.0.40'></script>
+<script type='text/javascript' src='https://geype.es/wp-content/themes/Divi/includes/builder/scripts/waypoints.min.js?ver=3.0.40'></script>
+<script type='text/javascript' src='https://geype.es/wp-content/themes/Divi/includes/builder/scripts/jquery.magnific-popup.js?ver=3.0.40'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_pb_custom = {"ajaxurl":"https:\/\/geype.es\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/geype.es\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/geype.es\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"b7699ec7b2","subscription_failed":"Por favor, revise los campos a continuaci\u00f3n para asegurarse de que la informaci\u00f3n introducida es correcta.","et_ab_log_nonce":"f79f789179","fill_message":"Por favor, rellene los siguientes campos:","contact_error_message":"Por favor, arregle los siguientes errores:","invalid":"De correo electr\u00f3nico no v\u00e1lida","captcha":"Captcha","prev":"Anterior","previous":"Anterior","next":"Siguiente","wrong_captcha":"Ha introducido un n\u00famero equivocado de captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"39","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://geype.es/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js?ver=3.0.40'></script>
+<script type='text/javascript' src='https://geype.es/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+</body>
+</html>
