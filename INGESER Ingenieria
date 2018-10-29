@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+	<meta charset="UTF-8" />
+	
+	<title>INGESER | INGESER | ingeniería, arquitectura y consultoría</title>
+
+	
+							<meta name="description" content="ingeniería, arquitectura, consultoría, proyectos">
+			
+							<meta name="keywords" content="ingeniería, arquitectura, consultoría, proyectos">
+						<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+		
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://www.ingeser.es/xmlrpc.php" />
+            <link rel="shortcut icon" type="image/x-icon" href="https://www.ingeser.es/wp-content/uploads/2017/03/favicon.png">
+        <link rel="apple-touch-icon" href="https://www.ingeser.es/wp-content/uploads/2017/03/favicon.png"/>
+    	<link href='//fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900,300italic,400italic,700italic|Raleway:100,200,300,400,500,600,700,800,900,300italic,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/ABC0A39C-DCEC-7949-94B4-60DA8A70FE88/main.js" charset="UTF-8"></script><script type="application/javascript">var QodeAjaxUrl = "https://www.ingeser.es/wp-admin/admin-ajax.php"</script><link rel="alternate" hreflang="es" href="https://www.ingeser.es" />
+<link rel="alternate" hreflang="en" href="https://www.ingeser.es/?lang=en" />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="INGESER &raquo; Feed" href="https://www.ingeser.es/feed/" />
+<link rel="alternate" type="application/rss+xml" title="INGESER &raquo; RSS de los comentarios" href="https://www.ingeser.es/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="INGESER &raquo; Home RSS de los comentarios" href="https://www.ingeser.es/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ingeser.es\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='layerslider-css'  href='https://www.ingeser.es/wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ls-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.ingeser.es/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.ingeser.es/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css'  href='https://www.ingeser.es/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.css?ver=1' type='text/css' media='all' />
+<style id='wpml-legacy-horizontal-list-0-inline-css' type='text/css'>
+.wpml-ls-statics-shortcode_actions{background-color:#eeeeee;}.wpml-ls-statics-shortcode_actions, .wpml-ls-statics-shortcode_actions .wpml-ls-sub-menu, .wpml-ls-statics-shortcode_actions a {border-color:#cdcdcd;}.wpml-ls-statics-shortcode_actions a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions a:hover,.wpml-ls-statics-shortcode_actions a:focus {color:#000000;background-color:#eeeeee;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language:hover>a, .wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a:focus {color:#000000;background-color:#eeeeee;}
+</style>
+<link rel='stylesheet' id='wpml-menu-item-0-css'  href='https://www.ingeser.es/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='default_style-css'  href='https://www.ingeser.es/wp-content/themes/bridge/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='qode_font_awesome-css'  href='https://www.ingeser.es/wp-content/themes/bridge/css/font-awesome/css/font-awesome.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='qode_font_elegant-css'  href='https://www.ingeser.es/wp-content/themes/bridge/css/elegant-icons/style.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='qode_linea_icons-css'  href='https://www.ingeser.es/wp-content/themes/bridge/css/linea-icons/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='qode_dripicons-css'  href='https://www.ingeser.es/wp-content/themes/bridge/css/dripicons/dripicons.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet-css'  href='https://www.ingeser.es/wp-content/themes/bridge/css/stylesheet.min.css?ver=4.9.8' type='text/css' media='all' />
+<style id='stylesheet-inline-css' type='text/css'>
+   .page-id-14869.disabled_footer_top .footer_top_holder, .page-id-14869.disabled_footer_bottom .footer_bottom_holder { display: none;}
+
+
+</style>
+<link rel='stylesheet' id='qode_print-css'  href='https://www.ingeser.es/wp-content/themes/bridge/css/print.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='style_dynamic-css'  href='https://www.ingeser.es/wp-content/themes/bridge/css/style_dynamic.css?ver=1532415839' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='https://www.ingeser.es/wp-content/themes/bridge/css/responsive.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='style_dynamic_responsive-css'  href='https://www.ingeser.es/wp-content/themes/bridge/css/style_dynamic_responsive.css?ver=1532415839' type='text/css' media='all' />
+<link rel='stylesheet' id='vertical_responsive-css'  href='https://www.ingeser.es/wp-content/themes/bridge/css/vertical_responsive.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://www.ingeser.es/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='custom_css-css'  href='https://www.ingeser.es/wp-content/themes/bridge/css/custom_css.css?ver=1532415839' type='text/css' media='all' />
+<link rel='stylesheet' id='childstyle-css'  href='https://www.ingeser.es/wp-content/themes/bridge-child/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-Defaults-css'  href='https://www.ingeser.es/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=4.9.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.6.2'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.6.2'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8'></script>
+<link rel='https://api.w.org/' href='https://www.ingeser.es/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ingeser.es/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ingeser.es/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<link rel="canonical" href="https://www.ingeser.es/" />
+<link rel='shortlink' href='https://www.ingeser.es/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.ingeser.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ingeser.es%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ingeser.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ingeser.es%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:3.6.2 stt:1,2;" />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.ingeser.es/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://www.ingeser.es/wp-content/uploads/2017/03/favicon.png" sizes="32x32" />
+<link rel="icon" href="https://www.ingeser.es/wp-content/uploads/2017/03/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.ingeser.es/wp-content/uploads/2017/03/favicon.png" />
+<meta name="msapplication-TileImage" content="https://www.ingeser.es/wp-content/uploads/2017/03/favicon.png" />
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="home page-template page-template-full_width page-template-full_width-php page page-id-14869 page-parent  vertical_menu_enabled  vertical_menu_transparency vertical_menu_transparency_on qode-title-hidden side_area_uncovered_from_content qode-child-theme-ver-1.0.0 qode-theme-ver-16.7 qode-theme-bridge disabled_footer_top wpb-js-composer js-comp-ver-5.5.2 vc_responsive" itemscope itemtype="http://schema.org/WebPage">
+
+	<div class="ajax_loader"><div class="ajax_loader_1"><div class="two_rotating_circles"><div class="dot1"></div><div class="dot2"></div></div></div></div>
+		<section class="side_menu right ">
+				<a href="#" target="_self" class="close_side_menu"></a>
+		</section>
+
+<div class="wrapper">
+	<div class="wrapper_inner">
+
+    
+    <!-- Google Analytics start -->
+            <script>
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-85235544-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+        <!-- Google Analytics end -->
+
+	<aside class="vertical_menu_area with_scroll light " >
+    <div class="vertical_menu_area_inner">
+        
+        <div class="vertical_area_background" ></div>
+		<div class="vertical_logo_wrapper" >
+	<div class="q_logo_vertical">
+		<a itemprop="url" href="https://www.ingeser.es/" >
+             <img itemprop="image" class="normal" src="https://www.ingeser.es/wp-content/uploads/2017/03/logo_transparente.png" alt="Logo"/> 			 <img itemprop="image" class="light" src="https://www.ingeser.es/wp-content/uploads/2017/03/logo_transparente.png" alt="Logo"/> 			 <img itemprop="image" class="dark" src="https://www.ingeser.es/wp-content/uploads/2017/03/logo_transparente.png" alt="Logo"/> 											</a>
+	</div>
+	</div>
+        <nav class="vertical_menu dropdown_animation vertical_menu_toggle">
+            <ul id="menu-top_menu" class=""><li id="nav-menu-item-15615" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item active narrow"><a href="/#inicio" class=" current "><i class="menu_icon blank fa"></i><span>INICIO<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-15657" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://www.ingeser.es/quienes-somos/" class=""><i class="menu_icon blank fa"></i><span>Quiénes somos<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-15759" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://www.ingeser.es/servicios/" class=""><i class="menu_icon blank fa"></i><span>Servicios<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-15618" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="/proyectos/" class=""><i class="menu_icon blank fa"></i><span>PROYECTOS<span class="underline_dash"></span></span><span class="plus"></span></a>
+<div class="second"><div class="inner"><ul>
+	<li id="nav-menu-item-16177" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/proyectos/sector-alimentacion/" class=""><i class="menu_icon blank fa"></i><span>Sector Alimentación</span><span class="plus"></span></a></li>
+	<li id="nav-menu-item-16203" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/proyectos/sector-logistica-y-distribucion/" class=""><i class="menu_icon blank fa"></i><span>Sector Logística y Distribución</span><span class="plus"></span></a></li>
+	<li id="nav-menu-item-16235" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/proyectos/sector-farmaceutico-y-quimico/" class=""><i class="menu_icon blank fa"></i><span>Sector Farmacéutico y Químico</span><span class="plus"></span></a></li>
+	<li id="nav-menu-item-15992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/proyectos/sector-industrial-y-energia/" class=""><i class="menu_icon blank fa"></i><span>Sector Industrial y Energía</span><span class="plus"></span></a></li>
+	<li id="nav-menu-item-16255" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/proyectos/sector-publico/" class=""><i class="menu_icon blank fa"></i><span>Sector Público</span><span class="plus"></span></a></li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-16290" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://www.ingeser.es/animacion-virtual-y-3d/" class=""><i class="menu_icon blank fa"></i><span>ANIMACIÓN VIRTUAL / 3D<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-15805" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://www.ingeser.es/clientes/" class=""><i class="menu_icon blank fa"></i><span>Clientes<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-17883" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://www.ingeser.es/noticias/" class=""><i class="menu_icon blank fa"></i><span>Noticias<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-17884" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://www.ingeser.es/contact/" class=""><i class="menu_icon blank fa"></i><span>Contacto<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-18264" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://www.ingeser.es/empleo/" class=""><i class="menu_icon blank fa"></i><span>Empleo<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-18394" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://www.ingeser.es/politica-de-gestion-de-calidad-y-medio-ambiente/" class=""><i class="menu_icon blank fa"></i><span>Calidad y Medio Ambiente<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-18438" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://www.ingeser.es/desempeno-ambiental/" class=""><i class="menu_icon blank fa"></i><span>Desempeño ambiental<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-wpml-ls-top_menu-es" class="menu-item-language menu-item-language-current menu-item wpml-ls-slot-top_menu wpml-ls-item wpml-ls-item-es wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item  narrow"><a href="https://www.ingeser.es" class=""><i class="menu_icon blank fa"></i><span><img class="wpml-ls-flag" src="https://www.ingeser.es/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" title="Español"><span class="underline_dash"></span></span><span class="plus"></span><span class="qode-featured-icon " aria-hidden="true"></span></a></li>
+<li id="nav-menu-item-wpml-ls-top_menu-en" class="menu-item-language menu-item wpml-ls-slot-top_menu wpml-ls-item wpml-ls-item-en wpml-ls-menu-item wpml-ls-last-item  narrow"><a href="https://www.ingeser.es/?lang=en" class=""><i class="menu_icon blank fa"></i><span><img class="wpml-ls-flag" src="https://www.ingeser.es/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" title="English"><span class="underline_dash"></span></span><span class="plus"></span><span class="qode-featured-icon " aria-hidden="true"></span></a></li>
+</ul>        </nav>
+        <div class="vertical_menu_area_widget_holder">
+                    </div>
+    </div>
+</aside>
+
+<header class="page_header   stick  light ">
+    <div class="header_inner clearfix">
+        <div class="header_bottom clearfix" style=' background-color:rgba(255, 255, 255, 0.00);' >
+			            <div class="container">
+                <div class="container_inner clearfix">
+											                        <div class="header_inner_left">
+								<div class="mobile_menu_button">
+		<span>
+			<i class="qode_icon_font_awesome fa fa-bars " ></i>		</span>
+	</div>
+							<div class="logo_wrapper" >
+	<div class="q_logo">
+		<a itemprop="url" href="https://www.ingeser.es/" >
+             <img itemprop="image" class="normal" src="https://www.ingeser.es/wp-content/uploads/2017/03/logo_transparente.png" alt="Logo"/> 			 <img itemprop="image" class="light" src="https://www.ingeser.es/wp-content/uploads/2017/03/logo_transparente.png" alt="Logo"/> 			 <img itemprop="image" class="dark" src="https://www.ingeser.es/wp-content/uploads/2017/03/logo_transparente.png" alt="Logo"/> 			 <img itemprop="image" class="sticky" src="https://www.ingeser.es/wp-content/uploads/2017/03/logo_transparente.png" alt="Logo"/> 			 <img itemprop="image" class="mobile" src="https://www.ingeser.es/wp-content/uploads/2017/03/logo_transparente.png" alt="Logo"/> 			 <img itemprop="image" class="popup" src="http://demo.qodeinteractive.com/bridge31/wp-content/uploads/2014/05/logo_urban.png" alt="Logo"/> 		</a>
+	</div>
+	</div>                        </div>
+												                </div>
+            </div>
+		        <nav class="mobile_menu">
+	<ul id="menu-top_menu-1" class=""><li id="mobile-menu-item-15615" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item active"><a href="/#inicio" class=" current "><span>INICIO</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-15657" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/quienes-somos/" class=""><span>Quiénes somos</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-15759" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/servicios/" class=""><span>Servicios</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-15618" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="/proyectos/" class=""><span>PROYECTOS</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+<ul class="sub_menu">
+	<li id="mobile-menu-item-16177" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/proyectos/sector-alimentacion/" class=""><span>Sector Alimentación</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+	<li id="mobile-menu-item-16203" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/proyectos/sector-logistica-y-distribucion/" class=""><span>Sector Logística y Distribución</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+	<li id="mobile-menu-item-16235" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/proyectos/sector-farmaceutico-y-quimico/" class=""><span>Sector Farmacéutico y Químico</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+	<li id="mobile-menu-item-15992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/proyectos/sector-industrial-y-energia/" class=""><span>Sector Industrial y Energía</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+	<li id="mobile-menu-item-16255" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/proyectos/sector-publico/" class=""><span>Sector Público</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+</ul>
+</li>
+<li id="mobile-menu-item-16290" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/animacion-virtual-y-3d/" class=""><span>ANIMACIÓN VIRTUAL / 3D</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-15805" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/clientes/" class=""><span>Clientes</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-17883" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/noticias/" class=""><span>Noticias</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-17884" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/contact/" class=""><span>Contacto</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-18264" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/empleo/" class=""><span>Empleo</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-18394" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/politica-de-gestion-de-calidad-y-medio-ambiente/" class=""><span>Calidad y Medio Ambiente</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-18438" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.ingeser.es/desempeno-ambiental/" class=""><span>Desempeño ambiental</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-wpml-ls-top_menu-es" class="menu-item-language menu-item-language-current menu-item wpml-ls-slot-top_menu wpml-ls-item wpml-ls-item-es wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item "><a href="https://www.ingeser.es" class=""><span><img class="wpml-ls-flag" src="https://www.ingeser.es/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" title="Español"></span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-wpml-ls-top_menu-en" class="menu-item-language menu-item wpml-ls-slot-top_menu wpml-ls-item wpml-ls-item-en wpml-ls-menu-item wpml-ls-last-item "><a href="https://www.ingeser.es/?lang=en" class=""><span><img class="wpml-ls-flag" src="https://www.ingeser.es/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" title="English"></span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+</ul></nav>        </div>
+    </div>
+</header>
+	<a id="back_to_top" href="#">
+        <span class="fa-stack">
+            <i class="qode_icon_font_awesome fa fa-arrow-up " ></i>        </span>
+	</a>
+	
+	
+    
+    
+    <div class="content  has_slider">
+        <div class="content_inner no_animation ">
+    					<script>
+			var page_scroll_amount_for_sticky = 800;
+			</script>
+										<div class="q_slider"><div class="q_slider_inner">
+			<div id="qode-home-slider-5"       class="carousel slide  full_screen  q_auto_start     " data-slide_animation="6000"  data-parallax="yes" style=""><div class="qode_slider_preloader"><div class="ajax_loader" ><div class="ajax_loader_1"><div class="two_rotating_circles"><div class="dot1"></div><div class="dot2"></div></div></div></div></div><div class="carousel-inner " data-start="transform: translateY(0px);" data-1440="transform: translateY(-500px);"><div class="item light   "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_osborne_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_osborne_opt.jpg" alt="BODEGAS OSBORNE"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text one_by_one subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(0, 0, 0, 0.8)">BODEGAS OSBORNE</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #000000;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.9);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Instalaciones de la bodega en Malpica de Tajo </span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item light   "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_jeanleon2_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_jeanleon2_opt.jpg" alt="BODEGA JEAN LEON"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text one_by_one subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(0, 0, 0, 0.8)">BODEGA JEAN LEON</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #000000;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.9);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Instalaciones de la bodega del Penedés</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item light   "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_persan_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_persan_opt.jpg" alt="PERSÁN"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text one_by_one subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(0, 0, 0, 0.8)">PERSÁN</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #000000;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.9);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Instalaciones  de la empresa en Sevilla</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item light   "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_campofrio_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_campofrio_opt.jpg" alt="CAMPOFRÍO"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text one_by_one subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(0, 0, 0, 0.8)">CAMPOFRÍO</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #000000;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.9);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Proyecto de nuevas instalaciones</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item light   "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_cartonajes_leon_opt-1.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_cartonajes_leon_opt-1.jpg" alt="CARTONAJES UNIÓN"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text all_at_once subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(10, 10, 10, 0.8)">CARTONAJES UNIÓN</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #0a0a0a;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.9);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Empresa de cartonaje leonesa</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item light   "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_alvinesa_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_alvinesa_opt.jpg" alt="ALVINESA"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text all_at_once subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(10, 10, 10, 0.8)">ALVINESA</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #0a0a0a;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.9);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Alcoholera Vinícola</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item light   "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_dafsa_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_dafsa_opt.jpg" alt="DAFSA"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text all_at_once subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(10, 10, 10, 0.8)">DAFSA</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #0a0000;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.9);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Desarrollos Alimentarios Frescos S.A.</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item    "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_corteingles_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_corteingles_opt.jpg" alt="EL CORTE INGLÉS"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text all_at_once subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(10, 0, 0, 0.8)">EL CORTE INGLÉS</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #0a0a0a;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.9);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Centro logístico del Grupo</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item light   "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_PCTH-Huelva_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_PCTH-Huelva_opt.jpg" alt="PCTH HUELVA"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text all_at_once subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(10, 10, 10, 0.8)">PCTH HUELVA</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #0a0000;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.9);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Parque tecnológico de Huelva</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item    "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_apc_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_apc_opt.jpg" alt="APC EUROPA"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text all_at_once subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(10, 10, 10, 0.8)">APC EUROPA</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #0a0000;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.9);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Procesado de productos alimenticios</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item light   "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_birba_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_birba_opt.jpg" alt="BIRBA"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text all_at_once subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(10, 10, 10, 0.8)">BIRBA</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #0a0000;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.9);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Fabricación de Galletas</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item light   "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_coop_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_coop_opt.jpg" alt="COOB"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text all_at_once subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(10, 10, 10, 0.8)">COOB</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #0a0a0a;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.9);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Planta de incubación</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item light   "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_diego_zamora_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_diego_zamora_opt.jpg" alt="DIEGO ZAMORA"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text all_at_once subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(10, 10, 10, 0.8)">DIEGO ZAMORA</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #0a0000;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.8);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Instalaciones de las bodegas</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item light   "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_felix_solis_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_felix_solis_opt.jpg" alt="FELIX SOLIS"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text all_at_once subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(10, 10, 10, 0.8)">FELIX SOLIS</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #0a0a0a;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.9);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Instalaciones de las Bodegas</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item light   "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_alter_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_alter_opt.jpg" alt="ALTER"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text all_at_once subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(10, 10, 10, 0.8)">ALTER</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #0a0101;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.9);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Nutrición y alimentación infantil</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item    "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_delfin_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_delfin_opt.jpg" alt="GRUPO DELFIN"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text all_at_once subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(10, 10, 10, 0.8)">GRUPO DELFIN</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #0a0101;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.8);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">EMPRESA DE CONGELADOS</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div><div class="item light   "   style="  "><div class="image" style="background-image:url(http://ingeser.es/wp-content/uploads/2016/10/slide_aldeasa_opt.jpg);"><img itemprop="image" src="http://ingeser.es/wp-content/uploads/2016/10/slide_aldeasa_opt.jpg" alt="ALDEASA"></div><div class="slider_content_outer"><div class="slider_content left" style="width:85%;left:5%;top:30%;"  data-0=" opacity: 1; width:85%; left:5%; top:30%;"  data-300=" opacity: 0; left:5%; top:20%;"><div class="text all_at_once subtitle_bellow_title no_separator"><div ><h2 class="q_slide_title  with_background_color" style="color: #ffcf20;font-size: 50px;line-height: 70px;font-family: 'Raleway';font-weight: 600;text-shadow: none;letter-spacing: 3px;"><span style="background-color: rgba(10, 10, 10, 0.8)">ALDEASA</span></h2></div><div ><h4 class="q_slide_subtitle" style="color: #0a0101;font-size: 15px;line-height: 20px;font-family: Raleway;font-weight: 400;text-transform: uppercase;text-shadow: none;"><span style="background-color: rgba(255, 207, 32, 0.9);padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px">Gestión de Travel retail</span></h4></div><p class="q_slide_text" style="text-shadow: none;;padding-top: 300px" ><span><a href="#inicio" class="current"><i class="fa fa-angle-double-down fa-2x" style="color:#000 ; background: #ffcf20; padding: 10px; border-radius: 10px;"></i></a></span></p></div></div></div></div></div><ol class="carousel-indicators" data-start="opacity: 1;" data-300="opacity:0;"><li data-target="#qode-home-slider-5" data-slide-to="0" class="active"></li><li data-target="#qode-home-slider-5" data-slide-to="1"></li><li data-target="#qode-home-slider-5" data-slide-to="2"></li><li data-target="#qode-home-slider-5" data-slide-to="3"></li><li data-target="#qode-home-slider-5" data-slide-to="4"></li><li data-target="#qode-home-slider-5" data-slide-to="5"></li><li data-target="#qode-home-slider-5" data-slide-to="6"></li><li data-target="#qode-home-slider-5" data-slide-to="7"></li><li data-target="#qode-home-slider-5" data-slide-to="8"></li><li data-target="#qode-home-slider-5" data-slide-to="9"></li><li data-target="#qode-home-slider-5" data-slide-to="10"></li><li data-target="#qode-home-slider-5" data-slide-to="11"></li><li data-target="#qode-home-slider-5" data-slide-to="12"></li><li data-target="#qode-home-slider-5" data-slide-to="13"></li><li data-target="#qode-home-slider-5" data-slide-to="14"></li><li data-target="#qode-home-slider-5" data-slide-to="15"></li><li data-target="#qode-home-slider-5" data-slide-to="16"></li></ol><a class="left carousel-control" href="#qode-home-slider-5" data-slide="prev" data-start="opacity: 0.35;" data-300="opacity:0;"><span class="prev_nav" ><i class="fa fa-angle-left"></i></span><span class="thumb_holder" ><span class="thumb_top clearfix"><span class="arrow_left"><i class="fa fa-angle-left"></i></span><span class="numbers"><span class="prev"></span> / 17</span></span><span class="img_outer"><span class="img"></span></span></span></a><a class="right carousel-control" href="#qode-home-slider-5" data-slide="next" data-start="opacity: 0.35;" data-300="opacity:0;"><span class="next_nav" ><i class="fa fa-angle-right"></i></span><span class="thumb_holder" ><span class="thumb_top clearfix"><span class="numbers"> <span class="next"></span> / 17</span><span class="arrow_right"><i class="fa fa-angle-right"></i></span></span><span class="img_outer"><span class="img"></span></span></span></a></div>			</div></div>
+			<div class="full_width">
+	<div class="full_width_inner" >
+										<div      class="vc_row wpb_row section vc_row-fluid  grid_section" style='background-color:#2b2b2b; text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<a href="#abajo"><i class="fa fa-angle-double-down fa-2x" style="color: #000;background: #ffcf20; padding: 10px 10px 5px 10px; border-bottom-left-radius: 2px;border-bottom-right-radius: 2px;; position: absolute; right: 30px; top: 0px;"></i></a>
+ 
+		</div>
+	</div>
+</div></div></div></div></div></div><div id="inicio"     class="vc_row wpb_row section vc_row-fluid  grid_section" style='background-color:#2b2b2b; padding-top:150px; padding-bottom:150px; text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>Hola,<br />
+somos<br />
+Ingeser</h2>
+
+		</div> 
+	</div> <div class="separator  small left  " style="margin-top: 15px;margin-bottom: 35px;background-color: #d60925;height: 4px;"></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-9"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>INGESER es una Empresa de ingeniería, arquitectura y consultoría multidisciplinar con más de 40 años de existencia y más de 3.000 proyectos realizados en ingeniería civil, ingeniería alimentaria, farmacéutica, logística, arquitectura, urbanismo, productividad, medio ambiente, proyección de soluciones eficaces, gestión de subvenciones y coordinación de ejecución de proyectos.</p>
+<p>&nbsp;</p>
+<p>Poseemos un equipo humano formado por ingenieros, arquitectos, economistas y otros consultores, con muchos años de experiencia, que cuenta con todos los medios y técnicas más avanzadas tanto para la concepción y desarrollo del Proyecto, como para su seguimiento hasta la implantación total.</p>
+
+		</div> 
+	</div> <a  itemprop="url" href="/ingeser/quienes-somos/" target="_self"  class="qbutton  small white default" style="margin: 30px 0; ">Leer más</a></div></div></div></div></div></div><div id="abajo"     class="vc_row wpb_row section vc_row-fluid " style=' text-align:left;'><div class=" full_section_inner clearfix"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class='projects_holder_outer v3 portfolio_no_space portfolio_with_hover_text'><div class='projects_holder portfolio_main_holder clearfix v3 hover_text no_space portfolio_full_image portfolio_one_by_one'>
+<article class='mix portfolio_category_136 portfolio_category_110 ' style=''><div class='image_holder'><a itemprop='url' class='portfolio_link_for_touch' href='https://www.ingeser.es/portfolio_page/abengoa-bioenergy/' target='_self'><span class='image'><img width="600" height="350" src="https://www.ingeser.es/wp-content/uploads/2016/05/ABENGOA-BIOENERGY-1.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://www.ingeser.es/wp-content/uploads/2016/05/ABENGOA-BIOENERGY-1.jpg 600w, https://www.ingeser.es/wp-content/uploads/2016/05/ABENGOA-BIOENERGY-1-300x175.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></span></a><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h5 itemprop="name" class="portfolio_title entry_title"><a itemprop="url" href="https://www.ingeser.es/portfolio_page/abengoa-bioenergy/"  target="_self">ABENGOA BIOENERGY</a></h5><span class="project_category" >destacado, Sector industrial y energía</span></div></div><span class='feature_holder'></span></span></span></span></div></article>
+<article class='mix portfolio_category_136 portfolio_category_111 portfolio_category_112 ' style=''><div class='image_holder'><a itemprop='url' class='portfolio_link_for_touch' href='https://www.ingeser.es/portfolio_page/pagos-del-rey/' target='_self'><span class='image'><img width="439" height="343" src="https://www.ingeser.es/wp-content/uploads/2016/05/pagos-2.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://www.ingeser.es/wp-content/uploads/2016/05/pagos-2.jpg 439w, https://www.ingeser.es/wp-content/uploads/2016/05/pagos-2-300x234.jpg 300w" sizes="(max-width: 439px) 100vw, 439px" /></span></a><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h5 itemprop="name" class="portfolio_title entry_title"><a itemprop="url" href="https://www.ingeser.es/portfolio_page/pagos-del-rey/"  target="_self">PAGOS DEL REY</a></h5><span class="project_category" >destacado, Sector alimentación, Sector vinícola</span></div></div><span class='feature_holder'></span></span></span></span></div></article>
+<article class='mix portfolio_category_136 portfolio_category_111 portfolio_category_114 ' style=''><div class='image_holder'><a itemprop='url' class='portfolio_link_for_touch' href='https://www.ingeser.es/portfolio_page/cobb/' target='_self'><span class='image'><img src="https://www.ingeser.es/wp-content/uploads/2016/05/COBB_2.jpg" class="attachment-full size-full wp-post-image" alt="" /></span></a><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h5 itemprop="name" class="portfolio_title entry_title"><a itemprop="url" href="https://www.ingeser.es/portfolio_page/cobb/"  target="_self">COBB</a></h5><span class="project_category" >destacado, Sector alimentación, Sector cárnico</span></div></div><span class='feature_holder'></span></span></span></span></div></article>
+<article class='mix portfolio_category_136 portfolio_category_111 portfolio_category_114 ' style=''><div class='image_holder'><a itemprop='url' class='portfolio_link_for_touch' href='https://www.ingeser.es/portfolio_page/sanchez-romero-y-carvajal/' target='_self'><span class='image'><img width="455" height="274" src="https://www.ingeser.es/wp-content/uploads/2016/05/SANCHEZ-ROMERO-Y-CARVAJAL.bmp" class="attachment-full size-full wp-post-image" alt="" srcset="https://www.ingeser.es/wp-content/uploads/2016/05/SANCHEZ-ROMERO-Y-CARVAJAL.bmp 455w, https://www.ingeser.es/wp-content/uploads/2016/05/SANCHEZ-ROMERO-Y-CARVAJAL-300x181.bmp 300w" sizes="(max-width: 455px) 100vw, 455px" /></span></a><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h5 itemprop="name" class="portfolio_title entry_title"><a itemprop="url" href="https://www.ingeser.es/portfolio_page/sanchez-romero-y-carvajal/"  target="_self">SANCHEZ ROMERO Y CARVAJAL</a></h5><span class="project_category" >destacado, Sector alimentación, Sector cárnico</span></div></div><span class='feature_holder'></span></span></span></span></div></article>
+<article class='mix portfolio_category_136 portfolio_category_118 ' style=''><div class='image_holder'><a itemprop='url' class='portfolio_link_for_touch' href='https://www.ingeser.es/portfolio_page/delaviuda/' target='_self'><span class='image'><img width="600" height="350" src="https://www.ingeser.es/wp-content/uploads/2016/05/DELAVIUDA-1.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://www.ingeser.es/wp-content/uploads/2016/05/DELAVIUDA-1.jpg 600w, https://www.ingeser.es/wp-content/uploads/2016/05/DELAVIUDA-1-300x175.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></span></a><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h5 itemprop="name" class="portfolio_title entry_title"><a itemprop="url" href="https://www.ingeser.es/portfolio_page/delaviuda/"  target="_self">DELAVIUDA</a></h5><span class="project_category" >destacado, Sector logística y distribución</span></div></div><span class='feature_holder'></span></span></span></span></div></article>
+<article class='mix portfolio_category_136 portfolio_category_119 ' style=''><div class='image_holder'><a itemprop='url' class='portfolio_link_for_touch' href='https://www.ingeser.es/portfolio_page/alvinesa/' target='_self'><span class='image'><img width="600" height="401" src="https://www.ingeser.es/wp-content/uploads/2016/05/ALVINESA-1.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://www.ingeser.es/wp-content/uploads/2016/05/ALVINESA-1.jpg 600w, https://www.ingeser.es/wp-content/uploads/2016/05/ALVINESA-1-300x201.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></span></a><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h5 itemprop="name" class="portfolio_title entry_title"><a itemprop="url" href="https://www.ingeser.es/portfolio_page/alvinesa/"  target="_self">ALVINESA</a></h5><span class="project_category" >destacado, Sector Farmaceutico y Químico</span></div></div><span class='feature_holder'></span></span></span></span></div></article>
+<article class='mix portfolio_category_136 portfolio_category_119 ' style=''><div class='image_holder'><a itemprop='url' class='portfolio_link_for_touch' href='https://www.ingeser.es/portfolio_page/repsol-puertollano/' target='_self'><span class='image'><img width="1728" height="1152" src="https://www.ingeser.es/wp-content/uploads/2016/05/repsol-puertollano-1.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://www.ingeser.es/wp-content/uploads/2016/05/repsol-puertollano-1.jpg 1728w, https://www.ingeser.es/wp-content/uploads/2016/05/repsol-puertollano-1-300x200.jpg 300w, https://www.ingeser.es/wp-content/uploads/2016/05/repsol-puertollano-1-768x512.jpg 768w, https://www.ingeser.es/wp-content/uploads/2016/05/repsol-puertollano-1-1024x683.jpg 1024w, https://www.ingeser.es/wp-content/uploads/2016/05/repsol-puertollano-1-700x467.jpg 700w" sizes="(max-width: 1728px) 100vw, 1728px" /></span></a><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h5 itemprop="name" class="portfolio_title entry_title"><a itemprop="url" href="https://www.ingeser.es/portfolio_page/repsol-puertollano/"  target="_self">Repsol Puertollano</a></h5><span class="project_category" >destacado, Sector Farmaceutico y Químico</span></div></div><span class='feature_holder'></span></span></span></span></div></article>
+<article class='mix portfolio_category_136 portfolio_category_120 ' style=''><div class='image_holder'><a itemprop='url' class='portfolio_link_for_touch' href='https://www.ingeser.es/portfolio_page/pcth/' target='_self'><span class='image'><img width="600" height="350" src="https://www.ingeser.es/wp-content/uploads/2016/05/PCTH-2-1.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://www.ingeser.es/wp-content/uploads/2016/05/PCTH-2-1.jpg 600w, https://www.ingeser.es/wp-content/uploads/2016/05/PCTH-2-1-300x175.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></span></a><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h5 itemprop="name" class="portfolio_title entry_title"><a itemprop="url" href="https://www.ingeser.es/portfolio_page/pcth/"  target="_self">PCTH</a></h5><span class="project_category" >destacado, Sector Público</span></div></div><span class='feature_holder'></span></span></span></span></div></article>
+<article class='mix portfolio_category_140 portfolio_category_121 portfolio_category_136 ' style=''><div class='image_holder'><a itemprop='url' class='portfolio_link_for_touch' href='https://www.ingeser.es/portfolio_page/03-osborne-seleccion-s-a/' target='_self'><span class='image'><img width="600" height="350" src="https://www.ingeser.es/wp-content/uploads/2016/05/01-FOTO_2.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://www.ingeser.es/wp-content/uploads/2016/05/01-FOTO_2.jpg 600w, https://www.ingeser.es/wp-content/uploads/2016/05/01-FOTO_2-300x175.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></span></a><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h5 itemprop="name" class="portfolio_title entry_title"><a itemprop="url" href="https://www.ingeser.es/portfolio_page/03-osborne-seleccion-s-a/"  target="_self">OSBORNE SELECCION S.A</a></h5><span class="project_category" >3D, Área de Animación Virtual y 3D, destacado</span></div></div><span class='feature_holder'></span></span></span></span></div></article>
+<div class='filler'></div>
+<div class='filler'></div>
+<div class='filler'></div>
+</div></div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  grid_section" style='background-color:#2b2b2b; padding-top:153px; text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>Ingeniería</h2>
+
+		</div> 
+	</div> <div class="separator  small left  " style="margin-top: 15px;margin-bottom: 36px;background-color: #d60925;height: 4px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span style="color: #ffffff;">INGESER cuenta con una dilatada experiencia en la realización de proyectos en más de 3.000 industrias</span></p>
+
+		</div> 
+	</div> <div class="separator  transparent   " style="margin-top: 20px;margin-bottom: 0px;"></div>
+<span data-type="normal" data-hover-icon-color="#d60925" class="qode_icon_shortcode  q_font_awsome_icon fa-2x pull-left " style=" "><a  itemprop="url" href="/ingeser/servicios" target="_self"><i class="qode_icon_font_awesome fa fa-angle-right qode_icon_element" style="color: #ffffff;" ></i></a></span><div class="separator  transparent   " style="margin-bottom: 20px;"></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>Arquitectura</h2>
+
+		</div> 
+	</div> <div class="separator  small left  " style="margin-top: 15px;margin-bottom: 36px;background-color: #d60925;height: 4px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span style="color: #ffffff;">El Área de Arquitectura está integrada por Arquitectos y aparejadores especializados en el diseño de edificios</span></p>
+
+		</div> 
+	</div> <div class="separator  transparent   " style="margin-top: 20px;margin-bottom: 0px;"></div>
+<span data-type="normal" data-hover-icon-color="#d60925" class="qode_icon_shortcode  q_font_awsome_icon fa-2x pull-left " style=" "><a  itemprop="url" href="/ingeser/servicios" target="_self"><i class="qode_icon_font_awesome fa fa-angle-right qode_icon_element" style="color: #ffffff;" ></i></a></span><div class="separator  transparent   " style="margin-bottom: 20px;"></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>Project Management</h2>
+
+		</div> 
+	</div> <div class="separator  small left  " style="margin-top: 15px;margin-bottom: 36px;background-color: #d60925;height: 4px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span style="color: #ffffff;">INGESER dispone de una área de negocio compuesto de un equipo de Dirección de Proyectos con personal responsable.</span></p>
+
+		</div> 
+	</div> <div class="separator  transparent   " style="margin-top: 20px;margin-bottom: 0px;"></div>
+<span data-type="normal" data-hover-icon-color="#d60925" class="qode_icon_shortcode  q_font_awsome_icon fa-2x pull-left " style=" "><a  itemprop="url" href="/ingeser/servicios" target="_self"><i class="qode_icon_font_awesome fa fa-angle-right qode_icon_element" style="color: #ffffff;" ></i></a></span><div class="separator  transparent   " style="margin-bottom: 20px;"></div>
+</div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  grid_section" style='background-color:#2b2b2b; padding-top:50px; padding-bottom:156px; text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>Ayudas oficiales</h2>
+
+		</div> 
+	</div> <div class="separator  small left  " style="margin-top: 15px;margin-bottom: 36px;background-color: #d60925;height: 4px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span style="color: #ffffff;">Este Área tiene como objetivo la obtención, para nuestros clientes, de las Ayudas Oficiales que procedan en cada momento.</span></p>
+
+		</div> 
+	</div> <div class="separator  transparent   " style="margin-top: 20px;margin-bottom: 0px;"></div>
+<span data-type="normal" data-hover-icon-color="#d60925" class="qode_icon_shortcode  q_font_awsome_icon fa-2x pull-left " style=" "><a  itemprop="url" href="/ingeser/servicios" target="_self"><i class="qode_icon_font_awesome fa fa-angle-right qode_icon_element" style="color: #ffffff;" ></i></a></span><div class="separator  transparent   " style="margin-bottom: 20px;"></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>Medioambiente</h2>
+
+		</div> 
+	</div> <div class="separator  small left  " style="margin-top: 15px;margin-bottom: 36px;background-color: #d60925;height: 4px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span style="color: #ffffff;">Ingeser trabaja en sus proyectos por la sostenibilidad ambiental y llevamos a cabo todos los requisitos necesarios.</span></p>
+
+		</div> 
+	</div> <div class="separator  transparent   " style="margin-top: 20px;margin-bottom: 0px;"></div>
+<span data-type="normal" data-hover-icon-color="#d60925" class="qode_icon_shortcode  q_font_awsome_icon fa-2x pull-left " style=" "><a  itemprop="url" href="/ingeser/servicios" target="_self"><i class="qode_icon_font_awesome fa fa-angle-right qode_icon_element" style="color: #ffffff;" ></i></a></span><div class="separator  transparent   " style="margin-bottom: 20px;"></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>Procesos</h2>
+
+		</div> 
+	</div> <div class="separator  small left  " style="margin-top: 15px;margin-bottom: 36px;background-color: #d60925;height: 4px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span style="color: #ffffff;">en función de los objetivos estratégicos de la organización, diseñar y gestionar los procesos de forma eficaz y eficiente.</span></p>
+
+		</div> 
+	</div> <div class="separator  transparent   " style="margin-top: 20px;margin-bottom: 0px;"></div>
+<span data-type="normal" data-hover-icon-color="#d60925" class="qode_icon_shortcode  q_font_awsome_icon fa-2x pull-left " style=" "><a  itemprop="url" href="/ingeser/servicios" target="_self"><i class="qode_icon_font_awesome fa fa-angle-right qode_icon_element" style="color: #ffffff;" ></i></a></span><div class="separator  transparent   " style="margin-bottom: 20px;"></div>
+</div></div></div></div></div></div><section      data-speed="1" class="parallax_section_holder  " style = " height:720px; background-image:url('https://www.ingeser.es/wp-content/uploads/2014/05/fondo3.jpg');"><div class="parallax_content left"><div class='parallax_section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="separator  transparent   " style="margin-top: 120px;margin-bottom: 0px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>Contacto</h2>
+
+		</div> 
+	</div> <div class="separator  small left  " style="margin-top: 15px;margin-bottom: 36px;background-color: #d60925;height: 4px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span style="color: #fff;"><strong>MADRID</strong><br />
+Telefono: 913.572.071<br />
+Email: comercial@ingeser.es</span></p>
+
+		</div> 
+	</div> <div class="separator  small left  " style="margin-top: 15px;margin-bottom: 15px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span style="color: #fff;"><strong>ZONA SUR</strong><br />
+Telefono: 954.975.553<br />
+Email: andalucia@ingeser.es</span></p>
+
+		</div> 
+	</div> <div class="separator  small left  " style="margin-top: 15px;margin-bottom: 15px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span style="color: #fff;"><strong>CATALUNYA</strong><br />
+Telefono: 930.187.997<br />
+Telefono: 972.218.907<br />
+Email: catalunya@ingeser.es</span></p>
+
+		</div> 
+	</div> <div class="separator  small left  " style="margin-top: 15px;margin-bottom: 15px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span style="color: #fff;"><strong>ZONA LEVANTE</strong><br />
+Teléfono: 960.452.323</span></p>
+
+		</div> 
+	</div> <div class="separator  small left  " style="margin-top: 15px;margin-bottom: 15px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span style="color: #fff;"><strong>ZONA NORTE</strong><br />
+Teléfono: 638.928.476</span></p>
+
+		</div> 
+	</div> </div></div></div><div class="wpb_column vc_column_container vc_col-sm-9"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="separator  transparent   " style="margin-top: 120px;margin-bottom: 0px;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div role="form" class="wpcf7" id="wpcf7-f18492-p14869-o1" lang="es-ES" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f18492-p14869-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="18492" />
+<input type="hidden" name="_wpcf7_version" value="5.0.3" />
+<input type="hidden" name="_wpcf7_locale" value="es_ES" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f18492-p14869-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="14869" />
+</div>
+<p>Su nombre (requerido)<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Su correo electrónico (requerido)<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Mensaje<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </p>
+<p><span class="wpcf7-form-control-wrap your-country"><span class="wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required"><span class="wpcf7-list-item first last"><label><input type="checkbox" name="your-country[]" value="He leído y acepto las" /><span class="wpcf7-list-item-label">He leído y acepto las</span></label></span></span></span> <a href="/ingeser/legal" style="color:#fff; text-decoration:underline;">condiciones de uso</a></p>
+<p><input type="submit" value="Enviar" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
+
+		</div> 
+	</div> </div></div></div></div></div></section><div      class="vc_row wpb_row section vc_row-fluid " style=' text-align:left;'><div class=" full_section_inner clearfix"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper">
+			
+			<a href="https://www.ingeser.es/feder/" target="_self"><div class="vc_single_image-wrapper vc_box_rounded  vc_box_border_grey"><img width="300" height="129" src="https://www.ingeser.es/wp-content/uploads/2017/12/índice-300x129.png" class="vc_single_image-img attachment-medium" alt="" srcset="https://www.ingeser.es/wp-content/uploads/2017/12/índice-300x129.png 300w, https://www.ingeser.es/wp-content/uploads/2017/12/índice.png 342w" sizes="(max-width: 300px) 100vw, 300px" /></div></a>
+		</div>
+	</div>
+</div></div></div></div></div>
+										 
+												</div>
+	</div>
+						<div class="content_bottom" >
+					</div>
+				
+	</div>
+</div>
+
+
+
+	<footer >
+		<div class="footer_inner clearfix">
+				<div class="footer_top_holder">
+            			<div class="footer_top">
+								<div class="container">
+					<div class="container_inner">
+																	<div class="four_columns clearfix">
+								<div class="column1 footer_col1">
+									<div class="column_inner">
+																			</div>
+								</div>
+								<div class="column2 footer_col2">
+									<div class="column_inner">
+												<div id="recent-posts-10" class="widget widget_recent_entries">		<h5>Latest From Our Blog</h5>		<ul>
+											<li>
+					<a href="https://www.ingeser.es/2018/10/29/inauguradas-las-nuevas-instalaciones-de-embumar/">Inauguradas las nuevas instalaciones de Embumar</a>
+											<span class="post-date">29 octubre, 2018</span>
+									</li>
+											<li>
+					<a href="https://www.ingeser.es/2018/06/20/grupo-armando-alvarez/">Grupo Armando Alvarez</a>
+											<span class="post-date">20 junio, 2018</span>
+									</li>
+											<li>
+					<a href="https://www.ingeser.es/2018/05/08/ingeser-una-ano-mas-estara-presente-en-la-foodtech-2018/">INGESER, una año más estará presente en la FOODTECH 2018</a>
+											<span class="post-date">8 mayo, 2018</span>
+									</li>
+					</ul>
+		</div>									</div>
+								</div>
+								<div class="column3 footer_col3">
+									<div class="column_inner">
+																			</div>
+								</div>
+								<div class="column4 footer_col4">
+									<div class="column_inner">
+																			</div>
+								</div>
+							</div>
+															</div>
+				</div>
+							</div>
+					</div>
+							<div class="footer_bottom_holder">
+                									<div class="footer_bottom">
+							<div class="textwidget"><div class="separator  transparent center  " style="margin-top: 50px;margin-bottom: 0px;"></div>
+
+
+COPYRIGHT © 2016 Servicios de Ingeniería y Gestión, S.A. | <a href="/ingeser/legal/" style="color:#fff;">Aviso Legal y Política de Privacidad</a>
+
+<div class="separator  transparent center  " style="margin-top: 50px;margin-bottom: 0px;"></div>
+</div>
+					</div>
+								</div>
+				</div>
+	</footer>
+		
+</div>
+</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.ingeser.es\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var qodeLike = {"ajaxurl":"https:\/\/www.ingeser.es\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/plugins/qode-like.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/wp-a11y.min.js?ver=4.9.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"Sin resultados.","oneResult":"1 resultado encontrado. Utiliza las teclas de flecha arriba y abajo para navegar.","manyResults":"%d resultados encontrados. Utiliza las teclas arriba y abajo para navegar.","itemSelected":"Elemento seleccionado."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Cerrar","currentText":"Hoy","monthNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"monthNamesShort":["Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic"],"nextText":"Siguiente","prevText":"Previo","dayNames":["domingo","lunes","martes","mi\u00e9rcoles","jueves","viernes","s\u00e1bado"],"dayNamesShort":["dom","lun","mar","mi\u00e9","jue","vie","s\u00e1b"],"dayNamesMin":["D","L","M","X","J","V","S"],"dateFormat":"d MM, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/droppable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/progressbar.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/selectable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/effect-bounce.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/effect-clip.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/effect-drop.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/effect-explode.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/effect-fold.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/effect-highlight.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/effect-pulsate.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/effect-size.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/effect-scale.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/jquery/ui/effect-transfer.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/plugins.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/plugins/jquery.carouFredSel-6.2.1.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/plugins/lemmon-slider.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/plugins/jquery.fullPage.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/plugins/jquery.mousewheel.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/plugins/jquery.touchSwipe.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=5.5.2'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/plugins/packery-mode.pkgd.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/plugins/jquery.stretch.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/plugins/imagesloaded.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/plugins/rangeslider.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/plugins/jquery.event.move.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/plugins/jquery.twentytwenty.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCo287N1gEY0ecHWtkU1iDLfYhCLVnC66w&#038;ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/default_dynamic.js?ver=1532415839'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var QodeAdminAjax = {"ajaxurl":"https:\/\/www.ingeser.es\/wp-admin\/admin-ajax.php"};
+var qodeGlobalVars = {"vars":{"qodeAddingToCartLabel":"Adding to Cart..."}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/default.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/themes/bridge/js/custom_js.js?ver=1532415839'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/comment-reply.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.5.2'></script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var icl_vars = {"current_language":"es","icl_home":"https:\/\/www.ingeser.es","ajax_url":"https:\/\/www.ingeser.es\/wp-admin\/admin-ajax.php","url_type":"3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ingeser.es/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.9.8'></script>
+</body>
+</html>
