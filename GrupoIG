@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+<meta charset="UTF-8" />
+<meta name='viewport' content='width=device-width, initial-scale=1.0' />
+<meta http-equiv='X-UA-Compatible' content='IE=edge' />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://grupoig.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+	<script src="https://grupoig.com/wp-content/themes/bb-theme/js/html5shiv.js"></script>
+	<script src="https://grupoig.com/wp-content/themes/bb-theme/js/respond.min.js"></script>
+<![endif]-->
+<title>Grupo IG. &#8211; Ingeniería y Gestión del Sur |</title>
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Grupo IG. &raquo; Feed" href="https://grupoig.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Grupo IG. &raquo; RSS de los comentarios" href="https://grupoig.com/comments/feed/" />
+		<script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/ABC0A39C-DCEC-7949-94B4-60DA8A70FE88/main.js" charset="UTF-8"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/grupoig.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='front-estilos-css'  href='https://grupoig.com/wp-content/plugins/asesor-cookies-para-la-ley-en-espana/html/front/estilos.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-bxslider-css'  href='https://grupoig.com/wp-content/plugins/bb-plugin/css/jquery.bxslider.css?ver=2.1.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='yui3-css'  href='https://grupoig.com/wp-content/plugins/bb-plugin/css/yui3.css?ver=2.1.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-slideshow-css'  href='https://grupoig.com/wp-content/plugins/bb-plugin/css/fl-slideshow.css?ver=2.1.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-builder-layout-6-css'  href='https://grupoig.com/wp-content/uploads/bb-plugin/cache/6-layout.css?ver=59acf6233e34ebf0589822e8a56c2909' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=2.1.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-magnificpopup-css'  href='https://grupoig.com/wp-content/plugins/bb-plugin/css/jquery.magnificpopup.css?ver=2.1.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://grupoig.com/wp-content/themes/bb-theme/css/bootstrap.min.css?ver=1.7.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-automator-skin-css'  href='https://grupoig.com/wp-content/uploads/bb-theme/skin-5bcdcef466ff5.css?ver=1.7.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-child-theme-css'  href='https://grupoig.com/wp-content/themes/bb-theme-child/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-builder-google-fonts-1d997cec1d80bbe03d7233c228e3758e-css'  href='https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700&#038;ver=4.9.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://grupoig.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://grupoig.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cdp_cookies_info = {"url_plugin":"https:\/\/grupoig.com\/wp-content\/plugins\/asesor-cookies-para-la-ley-en-espana\/plugin.php","url_admin_ajax":"https:\/\/grupoig.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://grupoig.com/wp-content/plugins/asesor-cookies-para-la-ley-en-espana/html/front/principal.js?ver=4.9.8'></script>
+<link rel='https://api.w.org/' href='https://grupoig.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://grupoig.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://grupoig.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<link rel="canonical" href="https://grupoig.com/" />
+<link rel='shortlink' href='https://grupoig.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://grupoig.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgrupoig.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://grupoig.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgrupoig.com%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<link rel="icon" href="https://grupoig.com/wp-content/uploads/2018/05/cropped-logo-grupo-ig-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://grupoig.com/wp-content/uploads/2018/05/cropped-logo-grupo-ig-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://grupoig.com/wp-content/uploads/2018/05/cropped-logo-grupo-ig-180x180.png" />
+<meta name="msapplication-TileImage" content="https://grupoig.com/wp-content/uploads/2018/05/cropped-logo-grupo-ig-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			font {
+font-family: Arial, Helvetica, sans-serif;
+}
+		</style>
+	</head>
+
+<body class="home page-template-default page page-id-6 fl-builder fl-framework-bootstrap fl-preset-default-dark fl-full-width fl-fixed-header fl-search-active" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<div class="fl-page">
+	<header class="fl-page-header fl-page-header-primary fl-page-nav-right fl-page-nav-toggle-button fl-page-nav-toggle-visible-medium-mobile" data-fl-distance=200 itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+	<div class="fl-page-header-wrap">
+		<div class="fl-page-header-container container">
+			<div class="fl-page-header-row row">
+				<div class="col-sm-12 col-md-4 fl-page-header-logo-col">
+					<div class="fl-page-header-logo" itemscope="itemscope" itemtype="https://schema.org/Organization">
+						<a href="https://grupoig.com/" itemprop="url"><div class="fl-logo-text" itemprop="name"> Bienvenido a nuestro sitio web. Aquí podrá ver lo más relevante que hemos hecho y descubrir lo que podemos hacer por su empresa.</div></a>
+											</div>
+				</div>
+				<div class="col-sm-12 col-md-8 fl-page-nav-col">
+					<div class="fl-page-nav-wrap">
+						<nav class="fl-page-nav fl-nav navbar navbar-default navbar-expand-md" aria-label="Menú de la Cabecera" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+							<button type="button" class="navbar-toggle navbar-toggler" data-toggle="collapse" data-target=".fl-page-nav-collapse">
+								<span>Menú</span>
+							</button>
+							<div class="fl-page-nav-collapse collapse navbar-collapse">
+								<div class="fl-page-nav-search">
+	<a href="javascript:void(0);" class="fas fa-search"></a>
+	<form method="get" role="search" action="https://grupoig.com/" title="Escribe y pulsa Enter para buscar.">
+		<input type="search" class="fl-search-input form-control" name="s" placeholder="Buscar" value="" />
+	</form>
+</div>
+<ul id="menu-primary-menu" class="nav navbar-nav navbar-right menu"><li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-11 nav-item"><a href="https://grupoig.com/" class="nav-link">Inicio</a></li>
+<li id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-221 nav-item"><a href="https://grupoig.com/servicios-2/" class="nav-link">Servicios</a>
+<ul class="sub-menu">
+	<li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216 nav-item"><a href="https://grupoig.com/servicios/" class="nav-link">Agroindustria</a></li>
+	<li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240 nav-item"><a href="https://grupoig.com/edificacion-y-desarrollo-urbanistico/" class="nav-link">Edificación Y Desarrollo Urbanístico</a></li>
+	<li id="menu-item-288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288 nav-item"><a href="https://grupoig.com/biodiversidad/" class="nav-link">Biodiversidad</a></li>
+	<li id="menu-item-269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269 nav-item"><a href="https://grupoig.com/cambio-climatico-y-sostenibilidad/" class="nav-link">Cambio Climático y Sostenibilidad</a></li>
+</ul>
+</li>
+<li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-160 nav-item"><a href="https://grupoig.com/calidad-y-medio-ambiente/" class="nav-link">Calidad y Medio Ambiente</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12 nav-item"><a href="https://grupoig.com/blog/" class="nav-link">Blog</a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117 nav-item"><a href="https://grupoig.com/contacto/" class="nav-link">Contacto</a></li>
+<li id="menu-item-180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-180 nav-item"><a href="http://castor2.duckdns.org/index.php?error=true" class="nav-link">C.A.S.T.O.R</a></li>
+</ul>							</div>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header><!-- .fl-page-header -->
+	<div class="fl-page-content" itemprop="mainContentOfPage">
+
+		
+<div class="fl-content-full container">
+	<div class="row">
+		<div class="fl-content col-md-12">
+							<article class="fl-post post-6 page type-page status-publish hentry" id="fl-post-6" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+
+			<div class="fl-post-content clearfix" itemprop="text">
+		<div class="fl-builder-content fl-builder-content-6 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="6"><div id="home" class="fl-row fl-row-full-width fl-row-bg-photo fl-node-5af9674414eb0" data-node="5af9674414eb0">
+	<div class="fl-row-content-wrap">
+				<div class="fl-row-content fl-row-full-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5af97f912805d" data-node="5af97f912805d">
+			<div class="fl-col fl-node-5af97f9128234" data-node="5af97f9128234">
+	<div class="fl-col-content fl-node-content">
+		</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div id="features" class="fl-row fl-row-full-width fl-row-bg-color fl-node-5af967441441e" data-node="5af967441441e">
+	<div class="fl-row-content-wrap">
+				<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5af967441447f" data-node="5af967441447f">
+			<div class="fl-col fl-node-5af96744144cf fl-col-small" data-node="5af96744144cf">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-5af9985e728cd" data-node="5af9985e728cd">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<img class="fl-photo-img wp-image-51 size-thumbnail" src="https://grupoig.com/wp-content/uploads/2018/05/1-Agroindustria-150x150.png" alt="1 Agroindustria" itemprop="image" height="150" width="150" title="1 Agroindustria" srcset="https://grupoig.com/wp-content/uploads/2018/05/1-Agroindustria-150x150.png 150w, https://grupoig.com/wp-content/uploads/2018/05/1-Agroindustria.png 300w" sizes="(max-width: 150px) 100vw, 150px" />
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-button fl-node-5afe97c2c0343" data-node="5afe97c2c0343">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-center">
+			<a href="" target="_self" class="fl-button" role="button">
+							<span class="fl-button-text">Agroindustria - Invernaderos</span>
+					</a>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-content-slider fl-node-5afc0dbb6ed27" data-node="5afc0dbb6ed27">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-content-slider">
+	<div class="fl-content-slider-wrapper">
+				<div class="fl-slide fl-slide-0 fl-slide-text-center">
+						<div class="fl-slide-foreground clearfix">
+				<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h4 class="fl-slide-title">Industria Alimentaria</h4><div class="fl-slide-text"><p style="text-align: center;"><span style="font-family: lato; font-size: 15;">Grupo IG realiza una Gestión Integral de los Proyectos de la industria transformadora agrícola. Desde hace más de 25 años lidera la ingeniería aplicada a este sector, implantando las nuevas tecnologías y modernizando sus procesos produce ocados por la tecnificación del sector agrícola y la mayor sensibilidad la seguridad alimentaria. Destacan los proyectos realizados para la Sociedad Cooperativa Andaluza Las Marismas (Lebrija, Sevilla, España) </span></p>
+</div></div></div>			</div>
+		</div>
+			<div class="fl-slide fl-slide-1 fl-slide-text-center">
+						<div class="fl-slide-foreground clearfix">
+				<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h4 class="fl-slide-title">Riego-Invernaderos</h4><div class="fl-slide-text"><p style="text-align: center;"><span style="font-family: lato; font-size: 15;">Otro de los aspectos fundamentales en el desarrollo agrícola es la modemízación de los sistemas de riego. Sistemas con los que se obtienen mayores rendimientos y una mayor optimización y ahorro de los recursos hídricos. Uno de los proyectos de riego de mayor envergadura ejecutados y relacionado con la mejora de la producción agrícola ha sido la puesta en riego de 1.700 has para culrivo de críticos en la provincia de Huelva (España).</span></p>
+</div></div></div>			</div>
+		</div>
+		</div>
+				<div class="fl-clear"></div>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5af967441456b fl-col-small" data-node="5af967441456b">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-5af96a7db3b5c" data-node="5af96a7db3b5c">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<img class="fl-photo-img wp-image-54 size-thumbnail" src="https://grupoig.com/wp-content/uploads/2018/05/resizeist.doist_.com_-150x150.png" alt="resizeist.doist.com" itemprop="image" height="150" width="150" title="resizeist.doist.com" srcset="https://grupoig.com/wp-content/uploads/2018/05/resizeist.doist_.com_-150x150.png 150w, https://grupoig.com/wp-content/uploads/2018/05/resizeist.doist_.com_.png 300w" sizes="(max-width: 150px) 100vw, 150px" />
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-button fl-node-5afe99636f8cb" data-node="5afe99636f8cb">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-center">
+			<a href="" target="_self" class="fl-button" role="button">
+							<span class="fl-button-text">Edificación y Desarrollo Urbanístico</span>
+					</a>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-content-slider fl-node-5afc0c1c0ba89" data-node="5afc0c1c0ba89">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-content-slider">
+	<div class="fl-content-slider-wrapper">
+				<div class="fl-slide fl-slide-0 fl-slide-text-center">
+						<div class="fl-slide-foreground clearfix">
+				<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h4 class="fl-slide-title">Edificación Comercial</h4><div class="fl-slide-text"><p style="text-align: center;"><span style="font-family: lato; font-size: 15;">Una de las principales líneas de negocio se encuentra en el sector de la edificacíón Comercial, proporcionando al cliente una gestón de sus proyectos, desde el diseño, control de la ejecucción, gestion de proveedores, hasta su legalización e inicio de la actividad. Desde hace más de 20 años prestamos tos servicios de ingeniería al grupo INDITEX en las áreas de Andalucía, Comunidad de Madrid, Extremadura, Castilla-León, Castilla-La Mancha</span></p>
+</div></div></div>			</div>
+		</div>
+			<div class="fl-slide fl-slide-1 fl-slide-text-center">
+						<div class="fl-slide-foreground clearfix">
+				<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h4 class="fl-slide-title">Usos Públicos</h4><div class="fl-slide-text"><p style="text-align: center;"><span style="font-family: lato; font-size: 15;"> En el sector de la edificación Grupo IG ha ampliado su marco de actividad a la construcción de edificios singulares, que disponen de los últimos avances tecnológicos, eco-sostenibles tanto en los materiales empleados como en su adecuación bioclímática y eficiencia energética.  Es destacable la construcción de las Torres de Hércules, en el parque empresarial y Tecnológico de Marismas de Palmones, Los barrios (España), así como el centro de Dotacional Del Hospital</span></p>
+</div></div></div>			</div>
+		</div>
+			<div class="fl-slide fl-slide-2 fl-slide-text-center">
+						<div class="fl-slide-foreground clearfix">
+				<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h4 class="fl-slide-title">Desarrollo Urbanístico</h4><div class="fl-slide-text"><p style="text-align: center;"><span style="font-family: lato; font-size: 15;">Los servicios de gestión urbanística abarcan el asesoramiento jurídico integral, redacción de las distintas figuras de planeamiento y redacción y control de ejecución de proyectos de urbanización.<br />
+En este sector destacan el proyecto Urbanización del parque Tecnológico y Empresarial Las Marismas de Palmones, de 31 héctares, y el Parque Tecnológico y Medio Ambiental, de 58 héctares, ambos en los Barrios </span></p>
+</div></div></div>			</div>
+		</div>
+		</div>
+				<div class="fl-clear"></div>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5af99a3f68266 fl-col-small" data-node="5af99a3f68266">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-5af999135babb" data-node="5af999135babb">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<img class="fl-photo-img wp-image-52 size-thumbnail" src="https://grupoig.com/wp-content/uploads/2018/05/3-Biodiversidad-150x150.png" alt="3 Biodiversidad" itemprop="image" height="150" width="150" title="3 Biodiversidad" srcset="https://grupoig.com/wp-content/uploads/2018/05/3-Biodiversidad-150x150.png 150w, https://grupoig.com/wp-content/uploads/2018/05/3-Biodiversidad.png 300w" sizes="(max-width: 150px) 100vw, 150px" />
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-button fl-node-5afe996b5d160" data-node="5afe996b5d160">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-center">
+			<a href="" target="_self" class="fl-button" role="button">
+							<span class="fl-button-text">Biodiversidad - Hábitats y Especies</span>
+					</a>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-content-slider fl-node-5afc113299adf" data-node="5afc113299adf">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-content-slider">
+	<div class="fl-content-slider-wrapper">
+				<div class="fl-slide fl-slide-0 fl-slide-text-center">
+						<div class="fl-slide-foreground clearfix">
+				<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h4 class="fl-slide-title">Investigación</h4><div class="fl-slide-text"><p style="text-align: center;"><span style="font-family: lato; font-size: 15;">Uno de los mayores retos al que nos enfrentamos es la conservación de nuestra biodiversidad como testigo e indicador de las condiciones ambientales que nos rodean.<br />
+Grupo IG ha apostado en su última década por su especialización desarrollo e innovación dentro de la conservación de especies de especial interés y de la protección de sus hábitats. Como proyectos de gran evergadura destaca el de mejora de hábitat para la introducción </span></p>
+</div></div></div>			</div>
+		</div>
+			<div class="fl-slide fl-slide-1 fl-slide-text-center">
+						<div class="fl-slide-foreground clearfix">
+				<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h4 class="fl-slide-title">Estudios-Investigación</h4><div class="fl-slide-text"><p style="text-align: center;"><span style="font-family: lato; font-size: 15;">Entre los estudios de carácter científico desarrollados por Grupo IG destacan los realizados con la Universidad de Córdoba sobre mariposas, hormigas, y flora amenazada en Sierra Morena (España) . Esta labor no sería posible sin la estrecha colaboración que Grupo IG mantiene con centros de gran prestigio de investigación y universidades, tales como Estación Biológica de Doñana (CSIS), Instituto de Ciencias Marinas de Andalucia, (CSIS) Universidad de sevilla.</span></p>
+</div></div></div>			</div>
+		</div>
+		</div>
+				<div class="fl-clear"></div>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5af99a6db68d5 fl-col-small" data-node="5af99a6db68d5">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-5af96d8b6ca90" data-node="5af96d8b6ca90">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<img class="fl-photo-img wp-image-53 size-thumbnail" src="https://grupoig.com/wp-content/uploads/2018/05/resizeist.doist_.co1m-150x150.png" alt="resizeist.doist.co1m" itemprop="image" height="150" width="150" title="resizeist.doist.co1m" srcset="https://grupoig.com/wp-content/uploads/2018/05/resizeist.doist_.co1m-150x150.png 150w, https://grupoig.com/wp-content/uploads/2018/05/resizeist.doist_.co1m.png 300w" sizes="(max-width: 150px) 100vw, 150px" />
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-button fl-node-5afe99711ad3b" data-node="5afe99711ad3b">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-center">
+			<a href="" target="_self" class="fl-button" role="button">
+							<span class="fl-button-text">Cambio Climático - Sostenibilidad</span>
+					</a>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-content-slider fl-node-5afc1b20b9da2" data-node="5afc1b20b9da2">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-content-slider">
+	<div class="fl-content-slider-wrapper">
+				<div class="fl-slide fl-slide-0 fl-slide-text-center">
+						<div class="fl-slide-foreground clearfix">
+				<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h4 class="fl-slide-title">Cambio Climático</h4><div class="fl-slide-text"><p style="text-align: center;"><span style="font-family: lato; font-size: 15;">Grupo IG aborda desde hace décadas el gran desafío de este siglo sobre el cambio clímatico y la sostenibilidad de  las actividades productivas del hombre. Ingeniería y Gestión del Sur ha desarrollado estos aspectos principalmente en los sectores de Residuos, Medio Urbano y Recursos Naturales.<br />
+Dentro de los sólidos urbanos la experincia adquirida en los ultimos veinticinco años es muy amplia e internacional.</span></p>
+</div></div></div>			</div>
+		</div>
+			<div class="fl-slide fl-slide-1 fl-slide-text-center">
+						<div class="fl-slide-foreground clearfix">
+				<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h4 class="fl-slide-title">Ciudades Sostenibles</h4><div class="fl-slide-text"><p style="text-align: center;"><span style="font-family: lato; font-size: 15;">Grupo IG aporta planificación, elaboración de estrategia diseños de infraestructuras y servicios para la sostenibilidad de las ciudades, mejorandc su paisaje urbano, su reconciliación con el entorno natural que las rodea, así como su adaptación al cambio climático. En Sevilla (España), realizamos la ingeniería del Parque Tamarguillo de 93 hectáreas en las cuencas de los ríos Tamarguillo y Ranillas y el parque Fluvial Palmas Altas de 35 has en la ribera del río</span></p>
+</div></div></div>			</div>
+		</div>
+			<div class="fl-slide fl-slide-2 fl-slide-text-center">
+						<div class="fl-slide-foreground clearfix">
+				<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h4 class="fl-slide-title">Recursos Naturales</h4><div class="fl-slide-text"><p style="text-align: center;"><span style="font-family: lato; font-size: 15;">Desde hace más de diez años Grupo lG desarrolla una gran actividad en la gestión y mantenimiento de ios recursos forestales, manteniendo el bosque autóctono mediterráneo y favoreciendo su biodiversidad. Destacan los proyectos de restauraciones hidrológicas realizados en los ríos Rivera de Huelva, Rivera del Cala, Río Guadalquivir a su paso por Andújar, Río Fresneda, Rambla de la Peralosa, para el organismo de cuenca de la Hidrográfica del G</span></p>
+</div></div></div>			</div>
+		</div>
+		</div>
+				<div class="fl-clear"></div>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div id="services" class="fl-row fl-row-full-width fl-row-bg-color fl-node-5af96744147db" data-node="5af96744147db">
+	<div class="fl-row-content-wrap">
+				<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5afea6aa6f3c2" data-node="5afea6aa6f3c2">
+			<div class="fl-col fl-node-5afea6aa6f4ec" data-node="5afea6aa6f4ec">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-slideshow fl-node-5afea6aa6f2f7" data-node="5afea6aa6f2f7">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-slideshow-container"></div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div id="clients" class="fl-row fl-row-full-width fl-row-bg-color fl-node-5af9674414acc" data-node="5af9674414acc">
+	<div class="fl-row-content-wrap">
+				<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5af9674414b2d" data-node="5af9674414b2d">
+			<div class="fl-col fl-node-5af96744151f9" data-node="5af96744151f9">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-post-slider fl-node-5af97b5617a09" data-node="5af97b5617a09">
+	<div class="fl-module-content fl-node-content">
+		
+	<div class="fl-post-slider" itemscope="itemscope" itemtype="https://schema.org/Blog">
+		<div class="fl-post-slider-wrapper">
+
+			
+<div class="fl-post-slider-post fl-post-slider-background fl-post-slider-has-image swiper-slide" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+
+	<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://grupoig.com/el-proyecto-gastronomia-sostenible-ha-sido-premiado-como-mejor-trabajo-en-vi-certamen-de-buenas-practicas-en-educacion-ambiental-y-sostenibilidad-urbana/" content="El Proyecto Gastronomía Sostenible ha sido premiado como mejor trabajo en VI Certamen de Buenas Prácticas en Educación Ambiental y Sostenibilidad Urbana." /><meta itemprop="datePublished" content="2018-05-22" /><meta itemprop="dateModified" content="2018-05-22" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Grupo IG."></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://grupoig.com/author/nerea/" /><meta itemprop="name" content="Nerea Rojas" /></div><div itemscope itemprop="image" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://grupoig.com/wp-content/uploads/2018/05/261017.jpg" /><meta itemprop="width" content="1080" /><meta itemprop="height" content="624" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div><div class="fl-post-slider-mobile-img"><div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<a href="https://grupoig.com/el-proyecto-gastronomia-sostenible-ha-sido-premiado-como-mejor-trabajo-en-vi-certamen-de-buenas-practicas-en-educacion-ambiental-y-sostenibilidad-urbana/" target="_self" itemprop="url">
+				<img class="fl-photo-img wp-image-130 size-large" src="https://grupoig.com/wp-content/uploads/2018/05/261017-1024x592.jpg" alt="261017" itemprop="image" height="592" width="1024" title="261017" srcset="https://grupoig.com/wp-content/uploads/2018/05/261017-1024x592.jpg 1024w, https://grupoig.com/wp-content/uploads/2018/05/261017-300x173.jpg 300w, https://grupoig.com/wp-content/uploads/2018/05/261017-768x444.jpg 768w, https://grupoig.com/wp-content/uploads/2018/05/261017.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />
+				</a>
+					</div>
+	</div>
+</div><div class="fl-slide-bg-photo fl-post-no-height" style="background-image: url(https://grupoig.com/wp-content/uploads/2018/05/261017-1024x592.jpg)"></div><div class="fl-post-slider-content-bg fl-post-no-height"></div>
+	<div class="fl-post-slider-content">
+
+		<h3 class="fl-post-slider-title" itemprop="headline"><a href="https://grupoig.com/el-proyecto-gastronomia-sostenible-ha-sido-premiado-como-mejor-trabajo-en-vi-certamen-de-buenas-practicas-en-educacion-ambiental-y-sostenibilidad-urbana/" rel="bookmark" title="El Proyecto Gastronomía Sostenible ha sido premiado como mejor trabajo en VI Certamen de Buenas Prácticas en Educación Ambiental y Sostenibilidad Urbana.">El Proyecto Gastronomía Sostenible ha sido premiado como mejor trabajo en VI Certamen de Buenas Prácticas en Educación Ambiental y Sostenibilidad Urbana.</a></h3>
+				<div class="fl-post-slider-feed-meta">
+														<span class="fl-post-slider-feed-date">
+					05/22/2018				</span>
+															<span class="fl-sep"> | </span>
+								<span class="fl-post-slider-feed-comments">
+					<a href="https://grupoig.com/el-proyecto-gastronomia-sostenible-ha-sido-premiado-como-mejor-trabajo-en-vi-certamen-de-buenas-practicas-en-educacion-ambiental-y-sostenibilidad-urbana/#respond">0 Comments</a>				</span>
+					</div>
+		
+				<div class="fl-post-slider-feed-content swiper-no-swiping" itemprop="text">
+						<p>“Los ayuntamientos de Mairena del Alcor, Conil de la Frontera, Camas y Córdoba han sido premiados en reconocimiento a sus buenas prácticas educativas ambientales y de sostenibilidad urbana En el marco del “VIII Encuentro andaluz de experiencias de educación ambiental y sostenibilidad urbana”, celebrado ayer en Conil de la Frontera, se han entregado los premios&hellip;</p>
+								</div>
+		
+	</div>
+
+</div>
+
+<div class="fl-post-slider-post fl-post-slider-background fl-post-slider-has-image swiper-slide" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+
+	<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://grupoig.com/representantes-del-ministerio-de-bosques-y-aguas-del-gobierno-de-turquia-han-visitado-este-miercoles-la-presa-de-la-brena-ii-en-la-localidad-cordobesa-de-almodovar-del-rio/" content="“Representantes del Ministerio de Bosques y Aguas del Gobierno de Turquía han visitado este miércoles la presa de la Breña II, en la localidad cordobesa de Almodóvar del Río" /><meta itemprop="datePublished" content="2018-05-22" /><meta itemprop="dateModified" content="2018-05-22" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Grupo IG."></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://grupoig.com/author/nerea/" /><meta itemprop="name" content="Nerea Rojas" /></div><div itemscope itemprop="image" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://grupoig.com/wp-content/uploads/2018/05/IMG_2615-1.jpg" /><meta itemprop="width" content="1080" /><meta itemprop="height" content="675" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div><div class="fl-post-slider-mobile-img"><div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<a href="https://grupoig.com/representantes-del-ministerio-de-bosques-y-aguas-del-gobierno-de-turquia-han-visitado-este-miercoles-la-presa-de-la-brena-ii-en-la-localidad-cordobesa-de-almodovar-del-rio/" target="_self" itemprop="url">
+				<img class="fl-photo-img wp-image-134 size-large" src="https://grupoig.com/wp-content/uploads/2018/05/IMG_2615-1-1024x640.jpg" alt="IMG_2615-1" itemprop="image" height="640" width="1024" title="IMG_2615-1" srcset="https://grupoig.com/wp-content/uploads/2018/05/IMG_2615-1-1024x640.jpg 1024w, https://grupoig.com/wp-content/uploads/2018/05/IMG_2615-1-300x188.jpg 300w, https://grupoig.com/wp-content/uploads/2018/05/IMG_2615-1-768x480.jpg 768w, https://grupoig.com/wp-content/uploads/2018/05/IMG_2615-1.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />
+				</a>
+					</div>
+	</div>
+</div><div class="fl-slide-bg-photo fl-post-no-height" style="background-image: url(https://grupoig.com/wp-content/uploads/2018/05/IMG_2615-1-1024x640.jpg)"></div><div class="fl-post-slider-content-bg fl-post-no-height"></div>
+	<div class="fl-post-slider-content">
+
+		<h3 class="fl-post-slider-title" itemprop="headline"><a href="https://grupoig.com/representantes-del-ministerio-de-bosques-y-aguas-del-gobierno-de-turquia-han-visitado-este-miercoles-la-presa-de-la-brena-ii-en-la-localidad-cordobesa-de-almodovar-del-rio/" rel="bookmark" title="“Representantes del Ministerio de Bosques y Aguas del Gobierno de Turquía han visitado este miércoles la presa de la Breña II, en la localidad cordobesa de Almodóvar del Río">“Representantes del Ministerio de Bosques y Aguas del Gobierno de Turquía han visitado este miércoles la presa de la Breña II, en la localidad cordobesa de Almodóvar del Río</a></h3>
+				<div class="fl-post-slider-feed-meta">
+														<span class="fl-post-slider-feed-date">
+					05/22/2018				</span>
+															<span class="fl-sep"> | </span>
+								<span class="fl-post-slider-feed-comments">
+					<a href="https://grupoig.com/representantes-del-ministerio-de-bosques-y-aguas-del-gobierno-de-turquia-han-visitado-este-miercoles-la-presa-de-la-brena-ii-en-la-localidad-cordobesa-de-almodovar-del-rio/#respond">0 Comments</a>				</span>
+					</div>
+		
+				<div class="fl-post-slider-feed-content swiper-no-swiping" itemprop="text">
+						<p>En el marco del proyecto de cooperación de la Unión Europea para la implementación de la Red Natura 2000 en Turquía. Según informa el Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente, después de visitar Francia y Croacia, los representantes turcos se encuentran de visita en España con el fin de conocer de primera&hellip;</p>
+								</div>
+		
+	</div>
+
+</div>
+
+<div class="fl-post-slider-post fl-post-slider-no-thumb fl-post-slider-has-image swiper-slide" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+
+	<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://grupoig.com/ngenieria-y-gestion-del-sur-grupo-ig-es-adjudicataria-de-los-servicios-de-direccion-facultativa-para-la-construccion-del-parque-de-bomberos-nivel-1-en-tarifa/" content="Ingeniería y Gestión del Sur, Grupo IG es adjudicataria de los Servicios de Dirección Facultativa para la construcción del Parque de Bomberos Nivel 1 en Tarifa." /><meta itemprop="datePublished" content="2018-05-22" /><meta itemprop="dateModified" content="2018-05-22" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Grupo IG."></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://grupoig.com/author/nerea/" /><meta itemprop="name" content="Nerea Rojas" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>
+	<div class="fl-post-slider-content">
+
+		<h3 class="fl-post-slider-title" itemprop="headline"><a href="https://grupoig.com/ngenieria-y-gestion-del-sur-grupo-ig-es-adjudicataria-de-los-servicios-de-direccion-facultativa-para-la-construccion-del-parque-de-bomberos-nivel-1-en-tarifa/" rel="bookmark" title="Ingeniería y Gestión del Sur, Grupo IG es adjudicataria de los Servicios de Dirección Facultativa para la construcción del Parque de Bomberos Nivel 1 en Tarifa.">Ingeniería y Gestión del Sur, Grupo IG es adjudicataria de los Servicios de Dirección Facultativa para la construcción del Parque de Bomberos Nivel 1 en Tarifa.</a></h3>
+				<div class="fl-post-slider-feed-meta">
+														<span class="fl-post-slider-feed-date">
+					05/22/2018				</span>
+															<span class="fl-sep"> | </span>
+								<span class="fl-post-slider-feed-comments">
+					<a href="https://grupoig.com/ngenieria-y-gestion-del-sur-grupo-ig-es-adjudicataria-de-los-servicios-de-direccion-facultativa-para-la-construccion-del-parque-de-bomberos-nivel-1-en-tarifa/#respond">0 Comments</a>				</span>
+					</div>
+		
+				<div class="fl-post-slider-feed-content swiper-no-swiping" itemprop="text">
+						<p>Con fecha 3 de octubre Ingeniería y Gestión del Sur, Grupo IG, ha firmado el contrato con el Consorcio de Bomberos de la Provincia de Cádiz, para llevar a cabo la Dirección Facultativa del Parque de Bomberos Nivel 1 en Tarifa. El proyecto con un presupuesto base de licitación de 3.155.935 euros tiene previsto iniciar&hellip;</p>
+								</div>
+		
+	</div>
+
+</div>
+
+<div class="fl-post-slider-post fl-post-slider-no-thumb fl-post-slider-has-image swiper-slide" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+
+	<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://grupoig.com/elaboracion-del-plan-estrategico-de-desarrollo-urbano-sostenible-integrado-de-cordoba/" content="Elaboración del plan estratégico de desarrollo urbano sostenible integrado de Córdoba" /><meta itemprop="datePublished" content="2018-05-22" /><meta itemprop="dateModified" content="2018-05-22" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Grupo IG."></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://grupoig.com/author/nerea/" /><meta itemprop="name" content="Nerea Rojas" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>
+	<div class="fl-post-slider-content">
+
+		<h3 class="fl-post-slider-title" itemprop="headline"><a href="https://grupoig.com/elaboracion-del-plan-estrategico-de-desarrollo-urbano-sostenible-integrado-de-cordoba/" rel="bookmark" title="Elaboración del plan estratégico de desarrollo urbano sostenible integrado de Córdoba">Elaboración del plan estratégico de desarrollo urbano sostenible integrado de Córdoba</a></h3>
+				<div class="fl-post-slider-feed-meta">
+														<span class="fl-post-slider-feed-date">
+					05/22/2018				</span>
+															<span class="fl-sep"> | </span>
+								<span class="fl-post-slider-feed-comments">
+					<a href="https://grupoig.com/elaboracion-del-plan-estrategico-de-desarrollo-urbano-sostenible-integrado-de-cordoba/#respond">0 Comments</a>				</span>
+					</div>
+		
+				<div class="fl-post-slider-feed-content swiper-no-swiping" itemprop="text">
+						<p>Elaboración del plan estratégico de desarrollo urbano sostenible integrado de Córdoba La Unión Europea considera esencial promover el desarrollo urbano sostenible de las ciudades de forma integrada, con el fin de promover la cohesión económica, social, ambiental y territorial de la dimensión urbana. Instituto Municipal de Desarrollo Económico y empleo de Córdoba trabajamos en la elaboración&hellip;</p>
+								</div>
+		
+	</div>
+
+</div>
+
+<div class="fl-post-slider-post fl-post-slider-background fl-post-slider-has-image swiper-slide" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+
+	<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://grupoig.com/medidas-compensatorias-de-caracter-ambiental-por-la-construccion-de-la-presa-de-la-brena-ii/" content="Medidas compensatorias de carácter ambiental por la construcción de la presa de la Breña II" /><meta itemprop="datePublished" content="2018-05-22" /><meta itemprop="dateModified" content="2018-05-22" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Grupo IG."></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://grupoig.com/author/nerea/" /><meta itemprop="name" content="Nerea Rojas" /></div><div itemscope itemprop="image" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://grupoig.com/wp-content/uploads/2018/05/it_ue_1_g.jpg" /><meta itemprop="width" content="800" /><meta itemprop="height" content="600" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div><div class="fl-post-slider-mobile-img"><div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<a href="https://grupoig.com/medidas-compensatorias-de-caracter-ambiental-por-la-construccion-de-la-presa-de-la-brena-ii/" target="_self" itemprop="url">
+				<img class="fl-photo-img wp-image-144 size-full" src="https://grupoig.com/wp-content/uploads/2018/05/it_ue_1_g.jpg" alt="it_ue_1_g" itemprop="image" height="600" width="800" title="it_ue_1_g" srcset="https://grupoig.com/wp-content/uploads/2018/05/it_ue_1_g.jpg 800w, https://grupoig.com/wp-content/uploads/2018/05/it_ue_1_g-300x225.jpg 300w, https://grupoig.com/wp-content/uploads/2018/05/it_ue_1_g-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+				</a>
+					</div>
+	</div>
+</div><div class="fl-slide-bg-photo fl-post-no-height" style="background-image: url(https://grupoig.com/wp-content/uploads/2018/05/it_ue_1_g.jpg)"></div><div class="fl-post-slider-content-bg fl-post-no-height"></div>
+	<div class="fl-post-slider-content">
+
+		<h3 class="fl-post-slider-title" itemprop="headline"><a href="https://grupoig.com/medidas-compensatorias-de-caracter-ambiental-por-la-construccion-de-la-presa-de-la-brena-ii/" rel="bookmark" title="Medidas compensatorias de carácter ambiental por la construcción de la presa de la Breña II">Medidas compensatorias de carácter ambiental por la construcción de la presa de la Breña II</a></h3>
+				<div class="fl-post-slider-feed-meta">
+														<span class="fl-post-slider-feed-date">
+					05/22/2018				</span>
+															<span class="fl-sep"> | </span>
+								<span class="fl-post-slider-feed-comments">
+					<a href="https://grupoig.com/medidas-compensatorias-de-caracter-ambiental-por-la-construccion-de-la-presa-de-la-brena-ii/#respond">0 Comments</a>				</span>
+					</div>
+		
+				<div class="fl-post-slider-feed-content swiper-no-swiping" itemprop="text">
+						<p>Ingeniería y Gestión adjudicataria del seguimiento, mantenimiento y conservación de las medidas contempladas en el proyecto de compensación de terrenos afectados y medidas correctoras de la construcción de la presa La Breña II, en la provincia de Córdoba. El Consejo de Administración de la sociedad estatal Aguas de las Cuencas de España (Acuaes) del Ministerio&hellip;</p>
+								</div>
+		
+	</div>
+
+</div>
+
+<div class="fl-post-slider-post fl-post-slider-background fl-post-slider-has-image swiper-slide" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+
+	<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://grupoig.com/proyecto-de-viveros-forestales-en-mozambique/" content="Proyecto de viveros forestales en Mozambique" /><meta itemprop="datePublished" content="2018-05-22" /><meta itemprop="dateModified" content="2018-05-22" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Grupo IG."></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://grupoig.com/author/nerea/" /><meta itemprop="name" content="Nerea Rojas" /></div><div itemscope itemprop="image" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://grupoig.com/wp-content/uploads/2018/05/mozambique.jpg" /><meta itemprop="width" content="600" /><meta itemprop="height" content="400" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div><div class="fl-post-slider-mobile-img"><div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<a href="https://grupoig.com/proyecto-de-viveros-forestales-en-mozambique/" target="_self" itemprop="url">
+				<img class="fl-photo-img wp-image-149 size-full" src="https://grupoig.com/wp-content/uploads/2018/05/mozambique.jpg" alt="mozambique" itemprop="image" height="400" width="600" title="mozambique" srcset="https://grupoig.com/wp-content/uploads/2018/05/mozambique.jpg 600w, https://grupoig.com/wp-content/uploads/2018/05/mozambique-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
+				</a>
+					</div>
+	</div>
+</div><div class="fl-slide-bg-photo fl-post-no-height" style="background-image: url(https://grupoig.com/wp-content/uploads/2018/05/mozambique.jpg)"></div><div class="fl-post-slider-content-bg fl-post-no-height"></div>
+	<div class="fl-post-slider-content">
+
+		<h3 class="fl-post-slider-title" itemprop="headline"><a href="https://grupoig.com/proyecto-de-viveros-forestales-en-mozambique/" rel="bookmark" title="Proyecto de viveros forestales en Mozambique">Proyecto de viveros forestales en Mozambique</a></h3>
+				<div class="fl-post-slider-feed-meta">
+														<span class="fl-post-slider-feed-date">
+					05/22/2018				</span>
+															<span class="fl-sep"> | </span>
+								<span class="fl-post-slider-feed-comments">
+					<a href="https://grupoig.com/proyecto-de-viveros-forestales-en-mozambique/#respond">0 Comments</a>				</span>
+					</div>
+		
+				<div class="fl-post-slider-feed-content swiper-no-swiping" itemprop="text">
+						<p>&nbsp; IGS lleva a cabo un proyecto llave en mano de viveros forestales, que ha sido el primer proyecto de invernaderos que realiza IG en Mozambique. Concretamente, el proyecto se encuentra en Ile, en la provincia de Zambezia. Son alrededor de 3 Ha de Invernadero automatizados con control climático y sistema de riego. Además, fue&hellip;</p>
+								</div>
+		
+	</div>
+
+</div>
+
+<div class="fl-post-slider-post fl-post-slider-background fl-post-slider-has-image swiper-slide" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+
+	<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://grupoig.com/4a-carrera-solidaria-corriendown-de-sevilla-y-provincia/" content="4ª Carrera Solidaria CORRIENDOWN De Sevilla Y Provincia" /><meta itemprop="datePublished" content="2018-06-06" /><meta itemprop="dateModified" content="2018-06-06" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Grupo IG."></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://grupoig.com/author/nerea/" /><meta itemprop="name" content="Nerea Rojas" /></div><div itemscope itemprop="image" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://grupoig.com/wp-content/uploads/2018/06/Ciencia-educativa-4.jpg" /><meta itemprop="width" content="1920" /><meta itemprop="height" content="1080" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div><div class="fl-post-slider-mobile-img"><div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<a href="https://grupoig.com/4a-carrera-solidaria-corriendown-de-sevilla-y-provincia/" target="_self" itemprop="url">
+				<img class="fl-photo-img wp-image-390 size-large" src="https://grupoig.com/wp-content/uploads/2018/06/Ciencia-educativa-4-1024x576.jpg" alt="Ciencia educativa (4)" itemprop="image" height="576" width="1024" title="Ciencia educativa (4)" srcset="https://grupoig.com/wp-content/uploads/2018/06/Ciencia-educativa-4-1024x576.jpg 1024w, https://grupoig.com/wp-content/uploads/2018/06/Ciencia-educativa-4-300x169.jpg 300w, https://grupoig.com/wp-content/uploads/2018/06/Ciencia-educativa-4-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+				</a>
+					</div>
+	</div>
+</div><div class="fl-slide-bg-photo fl-post-no-height" style="background-image: url(https://grupoig.com/wp-content/uploads/2018/06/Ciencia-educativa-4-1024x576.jpg)"></div><div class="fl-post-slider-content-bg fl-post-no-height"></div>
+	<div class="fl-post-slider-content">
+
+		<h3 class="fl-post-slider-title" itemprop="headline"><a href="https://grupoig.com/4a-carrera-solidaria-corriendown-de-sevilla-y-provincia/" rel="bookmark" title="4ª Carrera Solidaria CORRIENDOWN De Sevilla Y Provincia">4ª Carrera Solidaria CORRIENDOWN De Sevilla Y Provincia</a></h3>
+				<div class="fl-post-slider-feed-meta">
+														<span class="fl-post-slider-feed-date">
+					06/06/2018				</span>
+															<span class="fl-sep"> | </span>
+								<span class="fl-post-slider-feed-comments">
+					<a href="https://grupoig.com/4a-carrera-solidaria-corriendown-de-sevilla-y-provincia/#respond">0 Comments</a>				</span>
+					</div>
+		
+				<div class="fl-post-slider-feed-content swiper-no-swiping" itemprop="text">
+						<p>“LOS NIÑOS APRENDEN A CUIDAR EL MEDIO AMBIENTE CON PROGRAMAS EDUCATIVOS” &nbsp;  El pasado domingo 13 de mayo se celebró en el parque del Alamillo de Sevilla, la cuarta carrera solidaria organizada por la Asociación Asedown de Sevilla y Provincia. Un evento  solidario que comenzó a las 10:00 hrs de la mañana, con una carrera&hellip;</p>
+								</div>
+		
+	</div>
+
+</div>
+
+<div class="fl-post-slider-post fl-post-slider-no-thumb fl-post-slider-has-image swiper-slide" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+
+	<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://grupoig.com/el-grupo-ig-ingenieria-y-gestion-del-sur-visita-la-feria-de-la-ciencia-en-fibes-sevilla/" content="El grupo IG Ingeniería y Gestión del Sur visita la Feria de la Ciencia en Fibes, Sevilla" /><meta itemprop="datePublished" content="2018-06-07" /><meta itemprop="dateModified" content="2018-06-08" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Grupo IG."></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://grupoig.com/author/nerea/" /><meta itemprop="name" content="Nerea Rojas" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>
+	<div class="fl-post-slider-content">
+
+		<h3 class="fl-post-slider-title" itemprop="headline"><a href="https://grupoig.com/el-grupo-ig-ingenieria-y-gestion-del-sur-visita-la-feria-de-la-ciencia-en-fibes-sevilla/" rel="bookmark" title="El grupo IG Ingeniería y Gestión del Sur visita la Feria de la Ciencia en Fibes, Sevilla">El grupo IG Ingeniería y Gestión del Sur visita la Feria de la Ciencia en Fibes, Sevilla</a></h3>
+				<div class="fl-post-slider-feed-meta">
+														<span class="fl-post-slider-feed-date">
+					06/07/2018				</span>
+															<span class="fl-sep"> | </span>
+								<span class="fl-post-slider-feed-comments">
+					<a href="https://grupoig.com/el-grupo-ig-ingenieria-y-gestion-del-sur-visita-la-feria-de-la-ciencia-en-fibes-sevilla/#respond">0 Comments</a>				</span>
+					</div>
+		
+				<div class="fl-post-slider-feed-content swiper-no-swiping" itemprop="text">
+						<p>“Nos encanta apoyar iniciativas donde la química, la tecnología y la diversidad biológica son el objetivo de la enseñanza La 16 ª edición Feria de la ciencia ha tenido este año entre sus temas principales ”la neurociencia, la biodiversidad, y el patrimonio cultural”, con una gran acogida. Un total de 124 expositores en los que&hellip;</p>
+								</div>
+		
+	</div>
+
+</div>
+
+<div class="fl-post-slider-post fl-post-slider-background fl-post-slider-has-image swiper-slide" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+
+	<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://grupoig.com/estuvimos-presente-en-lo-cursos-de-ciberseguridad-y-ciberdelicuencia-que-organiza-la-universidad-pablo-de-olavide/" content="Estuvimos presente en lo cursos de ciberseguridad y ciberdelicuencia que organiza la universidad Pablo de Olavide" /><meta itemprop="datePublished" content="2018-08-07" /><meta itemprop="dateModified" content="2018-08-07" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Grupo IG."></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://grupoig.com/author/mpc/" /><meta itemprop="name" content="Mariano Pérez" /></div><div itemscope itemprop="image" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://grupoig.com/wp-content/uploads/2018/08/Curso-de-verano-ciberseguridad-03.jpg" /><meta itemprop="width" content="1440" /><meta itemprop="height" content="1080" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div><div class="fl-post-slider-mobile-img"><div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<a href="https://grupoig.com/estuvimos-presente-en-lo-cursos-de-ciberseguridad-y-ciberdelicuencia-que-organiza-la-universidad-pablo-de-olavide/" target="_self" itemprop="url">
+				<img class="fl-photo-img wp-image-446 size-large" src="https://grupoig.com/wp-content/uploads/2018/08/Curso-de-verano-ciberseguridad-03-1024x768.jpg" alt="dav" itemprop="image" height="768" width="1024" title="dav" srcset="https://grupoig.com/wp-content/uploads/2018/08/Curso-de-verano-ciberseguridad-03-1024x768.jpg 1024w, https://grupoig.com/wp-content/uploads/2018/08/Curso-de-verano-ciberseguridad-03-300x225.jpg 300w, https://grupoig.com/wp-content/uploads/2018/08/Curso-de-verano-ciberseguridad-03-768x576.jpg 768w, https://grupoig.com/wp-content/uploads/2018/08/Curso-de-verano-ciberseguridad-03.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" />
+				</a>
+					</div>
+	</div>
+</div><div class="fl-slide-bg-photo fl-post-no-height" style="background-image: url(https://grupoig.com/wp-content/uploads/2018/08/Curso-de-verano-ciberseguridad-03-1024x768.jpg)"></div><div class="fl-post-slider-content-bg fl-post-no-height"></div>
+	<div class="fl-post-slider-content">
+
+		<h3 class="fl-post-slider-title" itemprop="headline"><a href="https://grupoig.com/estuvimos-presente-en-lo-cursos-de-ciberseguridad-y-ciberdelicuencia-que-organiza-la-universidad-pablo-de-olavide/" rel="bookmark" title="Estuvimos presente en lo cursos de ciberseguridad y ciberdelicuencia que organiza la universidad Pablo de Olavide">Estuvimos presente en lo cursos de ciberseguridad y ciberdelicuencia que organiza la universidad Pablo de Olavide</a></h3>
+				<div class="fl-post-slider-feed-meta">
+														<span class="fl-post-slider-feed-date">
+					08/07/2018				</span>
+															<span class="fl-sep"> | </span>
+								<span class="fl-post-slider-feed-comments">
+					<a href="https://grupoig.com/estuvimos-presente-en-lo-cursos-de-ciberseguridad-y-ciberdelicuencia-que-organiza-la-universidad-pablo-de-olavide/#respond">0 Comments</a>				</span>
+					</div>
+		
+				<div class="fl-post-slider-feed-content swiper-no-swiping" itemprop="text">
+						<p>EN GRUPOIG NOS PREOCUPAMOS POR LA CIBERSEGURIDAD EN EL MUNDO EMPRESARIAL La importancia de la ciberseguridad en las empresas es algo que nos preocupa a todos. La mejor manera de estar al día de lo que ocurre en la red es asistir a los cursos de expertos de esta materia. Quedamos muy sorprendidos con toda&hellip;</p>
+								</div>
+		
+	</div>
+
+</div>
+
+<div class="fl-post-slider-post fl-post-slider-background fl-post-slider-has-image swiper-slide" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+
+	<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://grupoig.com/grupoig-fue-patrocinador-en-la-wordcamp-sevilla-2018/" content="GRUPOIG fue patrocinador en la WordCamp Sevilla 2018" /><meta itemprop="datePublished" content="2018-08-09" /><meta itemprop="dateModified" content="2018-08-09" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Grupo IG."></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://grupoig.com/author/mpc/" /><meta itemprop="name" content="Mariano Pérez" /></div><div itemscope itemprop="image" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://grupoig.com/wp-content/uploads/2018/08/WordCamp-Sevilla-2018-01.png" /><meta itemprop="width" content="2060" /><meta itemprop="height" content="1300" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div><div class="fl-post-slider-mobile-img"><div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<a href="https://grupoig.com/grupoig-fue-patrocinador-en-la-wordcamp-sevilla-2018/" target="_self" itemprop="url">
+				<img class="fl-photo-img wp-image-450 size-large" src="https://grupoig.com/wp-content/uploads/2018/08/WordCamp-Sevilla-2018-01-1024x646.png" alt="WordCamp Sevilla 2018 01" itemprop="image" height="646" width="1024" title="WordCamp Sevilla 2018 01" srcset="https://grupoig.com/wp-content/uploads/2018/08/WordCamp-Sevilla-2018-01-1024x646.png 1024w, https://grupoig.com/wp-content/uploads/2018/08/WordCamp-Sevilla-2018-01-300x189.png 300w, https://grupoig.com/wp-content/uploads/2018/08/WordCamp-Sevilla-2018-01-768x485.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+				</a>
+					</div>
+	</div>
+</div><div class="fl-slide-bg-photo fl-post-no-height" style="background-image: url(https://grupoig.com/wp-content/uploads/2018/08/WordCamp-Sevilla-2018-01-1024x646.png)"></div><div class="fl-post-slider-content-bg fl-post-no-height"></div>
+	<div class="fl-post-slider-content">
+
+		<h3 class="fl-post-slider-title" itemprop="headline"><a href="https://grupoig.com/grupoig-fue-patrocinador-en-la-wordcamp-sevilla-2018/" rel="bookmark" title="GRUPOIG fue patrocinador en la WordCamp Sevilla 2018">GRUPOIG fue patrocinador en la WordCamp Sevilla 2018</a></h3>
+				<div class="fl-post-slider-feed-meta">
+														<span class="fl-post-slider-feed-date">
+					08/09/2018				</span>
+															<span class="fl-sep"> | </span>
+								<span class="fl-post-slider-feed-comments">
+					<a href="https://grupoig.com/grupoig-fue-patrocinador-en-la-wordcamp-sevilla-2018/#respond">0 Comments</a>				</span>
+					</div>
+		
+				<div class="fl-post-slider-feed-content swiper-no-swiping" itemprop="text">
+						<p>LA CIUDAD DE SEVILLA CELEBRÓ ESTE VERANO LA WORDCAMP 2018, UN EVENTO DE TEMÁTICA TECNOLÓGICA PARA LOS ENTUSIASTAS DE WORDPRESS Buena temperatura, buen lugar y buen público…  Así comenzó en Sevilla la WordCamp 2018, un evento de temática digital que congregó a más de 200 personas llegadas de varias nacionalidades y ciudades de España. Casi&hellip;</p>
+								</div>
+		
+	</div>
+
+</div>
+		</div>
+		</div>
+	<div class="fl-clear"></div>
+
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div>	</div><!-- .fl-post-content -->
+	
+</article>
+
+<!-- .fl-post -->
+					</div>
+	</div>
+</div>
+
+
+	</div><!-- .fl-page-content -->
+		<footer class="fl-page-footer-wrap" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+		<div class="fl-page-footer-widgets">
+	<div class="fl-page-footer-widgets-container container">
+		<div class="fl-page-footer-widgets-row row">
+		<div class="col-sm-12 col-md-12"><aside id="text-4" class="fl-widget widget_text">			<div class="textwidget"><p style="text-align: center;"><span style="font-family: lato; font-size: 10;">Grupo IG</span></p>
+</div>
+		</aside><aside id="pages-3" class="fl-widget widget_pages"><h4 class="fl-widget-title">Legal</h4>		<ul>
+			<li class="page_item page-item-412"><a href="https://grupoig.com/aviso-legal/">Aviso legal</a></li>
+<li class="page_item page-item-6 current_page_item"><a href="https://grupoig.com/">Inicio</a></li>
+<li class="page_item page-item-406"><a href="https://grupoig.com/politica-de-cookies/">Política de cookies</a></li>
+<li class="page_item page-item-395"><a href="https://grupoig.com/politica-de-privacidad/">Política de privacidad</a></li>
+		</ul>
+		</aside></div>		</div>
+	</div>
+</div><!-- .fl-page-footer-widgets -->
+	</footer>
+		</div><!-- .fl-page -->
+<!-- HTML del pié de página -->
+<div class="cdp-cookies-alerta  cdp-solapa-ocultar cdp-cookies-tema-verde">
+	<div class="cdp-cookies-texto">
+		<p style="font-size:12px !important;line-height:12px !important">Este sitio web utiliza cookies para que usted tenga la mejor experiencia de usuario. Si continúa navegando está dando su consentimiento para la aceptación de las mencionadas cookies y la aceptación de nuestra <a href="https://grupoig.com/politica-de-cookies/" style="font-size:12px !important;line-height:12px !important">política de cookies</a>, pinche el enlace para mayor información.<a href="http://wordpress.org/plugins/asesor-cookies-para-la-ley-en-espana/" class="cdp-cookies-boton-creditos" target="_blank"></a></p>
+		<a href="javascript:;" class="cdp-cookies-boton-cerrar">ACEPTAR</a> 
+	</div>
+	<a class="cdp-cookies-solapa">Aviso de cookies</a>
+</div>
+ <script type="text/javascript">
+
+if(typeof jQuery == 'undefined' || typeof jQuery.fn.on == 'undefined') {
+	document.write('<script src="https://grupoig.com/wp-includes/js/jquery/jquery.js"><\/script>');
+	document.write('<script src="https://grupoig.com/wp-includes/js/jquery/jquery-migrate.min.js"><\/script>');
+}
+
+</script>
+<style>[class*="fa fa-"]{font-family: FontAwesome !important;}</style><link rel='stylesheet' id='font-awesome-5-css'  href='https://grupoig.com/wp-content/plugins/bb-plugin/fonts/fontawesome/css/all.min.css?ver=2.1.5.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://grupoig.com/wp-content/plugins/bb-plugin/js/jquery.easing.min.js?ver=1.4'></script>
+<script type='text/javascript' src='https://grupoig.com/wp-content/plugins/bb-plugin/js/jquery.fitvids.min.js?ver=1.2'></script>
+<script type='text/javascript' src='https://grupoig.com/wp-content/plugins/bb-plugin/js/jquery.bxslider.js?ver=2.1.5.2'></script>
+<script type='text/javascript' src='https://grupoig.com/wp-content/plugins/bb-plugin/js/yui3.min.js?ver=2.1.5.2'></script>
+<script type='text/javascript' src='https://grupoig.com/wp-content/plugins/bb-plugin/js/fl-slideshow.min.js?ver=2.1.5.2'></script>
+<script type='text/javascript' src='https://grupoig.com/wp-content/uploads/bb-plugin/cache/6-layout.js?ver=59acf6233e34ebf0589822e8a56c2909'></script>
+<script type='text/javascript' src='https://grupoig.com/wp-content/themes/bb-theme/js/jquery.throttle.min.js?ver=1.7.0.3'></script>
+<script type='text/javascript' src='https://grupoig.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://grupoig.com/wp-content/plugins/bb-plugin/js/jquery.magnificpopup.min.js?ver=2.1.5.2'></script>
+<script type='text/javascript' src='https://grupoig.com/wp-content/themes/bb-theme/js/bootstrap.min.js?ver=1.7.0.3'></script>
+<script type='text/javascript' src='https://grupoig.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1.7.0.3'></script>
+<script type='text/javascript' src='https://grupoig.com/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+</body>
+</html>
